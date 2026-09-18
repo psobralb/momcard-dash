@@ -1,0 +1,777 @@
+{
+  "summary": {
+    "last4": "0183",
+    "name": "PAULA BARIFOUSE",
+    "product": "Citi AAdvantage Executive Mastercard",
+    "period": "02/14/26-03/13/26",
+    "purchases": 5107.93,
+    "newBalance": 4870.43,
+    "interest": 0.0,
+    "minPayment": 49.0,
+    "due": "04/10/26",
+    "payments": -8965.14,
+    "credits": -0.0,
+    "previousBalance": 8465.14
+  },
+  "parsedCount": 66,
+  "parsedSum": 5107.93,
+  "byCategory": {
+    "pedro-tech-saas": 294.76,
+    "fl-household": 1766.26,
+    "other": 2373.92,
+    "travel": 672.99
+  },
+  "pedroTechTotal": 294.76,
+  "pedroWorkOnsiteTotal": 0,
+  "transactions": [
+    {
+      "transDate": "02/14",
+      "postDate": "02/14",
+      "description": "DNH*GODADDY#4017348694 TEMPE AZ",
+      "amount": 19.98,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "02/14",
+      "postDate": "02/14",
+      "description": "EMERSON CRISTIANO HA NORTH MIAMI B FL",
+      "amount": 395.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/15",
+      "postDate": "02/15",
+      "description": "TEMU.COM SANTA MONICA CA",
+      "amount": 65.57,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/15",
+      "postDate": "02/15",
+      "description": "LAGOINHA MIAMI CHURCH MIAMI FL",
+      "amount": 500.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/16",
+      "postDate": "02/16",
+      "description": "SAWGRASS FORD FORT LAUDERDA FL",
+      "amount": 303.08,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/16",
+      "postDate": "02/16",
+      "description": "BEYONDMD ORACLE AZ",
+      "amount": 19.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/16",
+      "postDate": "02/16",
+      "description": "ELITE PAINCARE DAVIE FL",
+      "amount": 27.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/17",
+      "postDate": "02/17",
+      "description": "REMEMBR MIAMI FL",
+      "amount": 2.39,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/17",
+      "postDate": "02/17",
+      "description": "REMEMBR MIAMI FL",
+      "amount": 31.76,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/18",
+      "postDate": "02/18",
+      "description": "SPIRIT A48704582515370 MIRAMAR FL",
+      "amount": 78.99,
+      "extra": [
+        "NAME: SOBRAL/M",
+        "DEPART: 03/08/26",
+        "ORD TO FLL : NK: CLASS: G : STOP:O"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/19",
+      "postDate": "02/19",
+      "description": "AMERICAN0010643478891 PHOENIX AZ",
+      "amount": 49.1,
+      "extra": [
+        "NAME: SOBRAL/MAURICIO",
+        "DEPART: 03/06/26",
+        "FLL TO ORD : AA: CLASS: Y : STOP:X"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/19",
+      "postDate": "02/19",
+      "description": "AMERICAN0012317864249 PHOENIX AZ",
+      "amount": 5.6,
+      "extra": [
+        "NAME: SOBRAL/MAURICIO",
+        "DEPART: 03/06/26",
+        "FLL TO ORD : AA: CLASS: Y : STOP:X"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/20",
+      "postDate": "02/20",
+      "description": "EXPEDIA 73378272621246 SEATTLE WA",
+      "amount": 150.59,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/20",
+      "postDate": "02/20",
+      "description": "EXPEDIA 73378248807668 SEATTLE WA",
+      "amount": 260.01,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/20",
+      "postDate": "02/20",
+      "description": "EXPEDIA 72071320979758 SEATTLE WA",
+      "amount": 440.67,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/22",
+      "postDate": "02/22",
+      "description": "DNH*GODADDY#4023108894 TEMPE AZ",
+      "amount": 9.99,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "02/22",
+      "postDate": "02/22",
+      "description": "TST* PIZZA LOVERS - PL PLANTATION FL",
+      "amount": 30.48,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/22",
+      "postDate": "02/22",
+      "description": "TST* PIZZA LOVERS - PL PLANTATION FL",
+      "amount": 103.88,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/23",
+      "postDate": "02/23",
+      "description": "AUTOSPARK Miami FL",
+      "amount": 40.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/23",
+      "postDate": "02/23",
+      "description": "COMPLETE WATER SYSTEMS DAVIE FL",
+      "amount": 320.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/27",
+      "postDate": "02/27",
+      "description": "TST*ONE ITALIAN Sunrise FL",
+      "amount": 41.91,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/28",
+      "postDate": "02/28",
+      "description": "IC* INSTACART*159 LAKELAND FL",
+      "amount": 190.76,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/02",
+      "postDate": "03/02",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 18.99,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/02",
+      "postDate": "03/02",
+      "description": "Four Seasons London Te London GBR",
+      "amount": 66.63,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/02",
+      "postDate": "03/02",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 43.94,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/04",
+      "postDate": "03/04",
+      "description": "LA FITNESS IRVINE CA",
+      "amount": 42.79,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/04",
+      "postDate": "03/04",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 19.99,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/05",
+      "postDate": "03/05",
+      "description": "Avolta STN WDF MAIN Stansted GBR",
+      "amount": 182.99,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/05",
+      "postDate": "03/05",
+      "description": "RYANAIR00000000H1K9QT0 DUBLIN IRL",
+      "amount": 195.29,
+      "extra": [
+        "NAME: BARIFOUSE SOBRAL/PAULA",
+        "DEPART: 03/05/26",
+        "STN TO LIS : FR: CLASS: C : STOP:"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/05",
+      "postDate": "03/05",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 9.99,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/05",
+      "postDate": "03/05",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 14.7,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/05",
+      "postDate": "03/05",
+      "description": "UBER *TRIP 8005928996 CA",
+      "amount": 26.31,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/05",
+      "postDate": "03/05",
+      "description": "Ryanair 0000000H1K9QT0 www.ryanair.c GBR",
+      "amount": 80.44,
+      "extra": [
+        "60.00 POUND STERLING $80.44",
+        "NAME: BARIFOUSE SOBRAL/PAULA",
+        "DEPART: 03/05/26",
+        "STN TO LIS : FR: CLASS: : STOP:"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/06",
+      "postDate": "03/06",
+      "description": "CASTELO SAO JORGE LISBOA PRT",
+      "amount": 39.61,
+      "extra": [
+        "34.00 EURO $39.61"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/06",
+      "postDate": "03/06",
+      "description": "PAD PORT RUA AURE LISBOA PRT",
+      "amount": 9.59,
+      "extra": [
+        "8.23 EURO $9.59"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/06",
+      "postDate": "03/06",
+      "description": "IL RISTORANTINO LISBOA PRT",
+      "amount": 24.11,
+      "extra": [
+        "20.70 EURO $24.11"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/06",
+      "postDate": "03/06",
+      "description": "VINCENZO S LISBOA PRT",
+      "amount": 65.88,
+      "extra": [
+        "56.55 EURO $65.88"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/07",
+      "postDate": "03/07",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 16.04,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/07",
+      "postDate": "03/07",
+      "description": "T2 LISBOA PRT",
+      "amount": 3.25,
+      "extra": [
+        "2.80 EURO $3.25"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/07",
+      "postDate": "03/07",
+      "description": "T2 LISBOA PRT",
+      "amount": 3.84,
+      "extra": [
+        "3.30 EURO $3.84"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/07",
+      "postDate": "03/07",
+      "description": "DNH*GODADDY#4032988799 TEMPE AZ",
+      "amount": 19.98,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "03/07",
+      "postDate": "03/07",
+      "description": "NESPRESSO LISBOA PRT",
+      "amount": 20.34,
+      "extra": [
+        "17.50 EURO $20.34"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/07",
+      "postDate": "03/07",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 52.94,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/07",
+      "postDate": "03/07",
+      "description": "PREGO D PESCADOR LISBOA PRT",
+      "amount": 58.11,
+      "extra": [
+        "50.00 EURO $58.11"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/07",
+      "postDate": "03/07",
+      "description": "RYANAIR00000000H1K9QT0 DUBLIN IRL",
+      "amount": 7.43,
+      "extra": [
+        "NAME: BARIFOUSE SOBRAL/PAULA",
+        "DEPART: 03/05/26",
+        "STN TO LIS : FR: CLASS: C : STOP:",
+        "LIS TO STN : FR: CLASS: H : STOP:"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/07",
+      "postDate": "03/07",
+      "description": "WH Smith Stanst Stansted GBR",
+      "amount": 12.7,
+      "extra": [
+        "9.47 POUND STERLING $12.70"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/08",
+      "postDate": "03/08",
+      "description": "Z HOTELS CITY LTD LONDON GBR",
+      "amount": 18.71,
+      "extra": [
+        "13.95 POUND STERLING $18.71"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/08",
+      "postDate": "03/08",
+      "description": "ROBERTS SPACE IND LLC BEE CAVE TX",
+      "amount": 20.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/08",
+      "postDate": "03/08",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 5.27,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/09",
+      "postDate": "03/09",
+      "description": "ELEVENLABS.IO NEW YORK NY",
+      "amount": 22.0,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "ElevenLabs"
+    },
+    {
+      "transDate": "03/09",
+      "postDate": "03/09",
+      "description": "AUTOSPARK Miami FL",
+      "amount": 40.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/09",
+      "postDate": "03/09",
+      "description": "NESPRESSO USA INC Wilmington DE",
+      "amount": 140.4,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/09",
+      "postDate": "03/09",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 30.96,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/10",
+      "postDate": "03/10",
+      "description": "IC* INSTACART*159 LAKELAND FL",
+      "amount": 247.7,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/12",
+      "postDate": "03/12",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 9.99,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/06",
+      "postDate": "03/06",
+      "description": "Sunday*Pizzeria Portof Chicago IL",
+      "amount": 52.49,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/06",
+      "postDate": "03/06",
+      "description": "PAR*ROCKY MOUNTAIN CHO CHICAGO IL",
+      "amount": 13.78,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/07",
+      "postDate": "03/07",
+      "description": "TST* BOTTLENECK MANAGE CHICAGO IL",
+      "amount": 55.99,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/07",
+      "postDate": "03/07",
+      "description": "NUTELLA CAFE - CHICAGO CHICAGO IL",
+      "amount": 14.5,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/08",
+      "postDate": "03/08",
+      "description": "FSP*MAJESTIC HOTEL CHICAGO IL",
+      "amount": 5.51,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/08",
+      "postDate": "03/08",
+      "description": "TST* HAPPY CAMPER - WR CHICAGO IL",
+      "amount": 55.38,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/08",
+      "postDate": "03/08",
+      "description": "CHILI'S G09 ORD CHICAGO IL",
+      "amount": 26.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/08",
+      "postDate": "03/08",
+      "description": "CHILI'S G09 ORD CHICAGO IL",
+      "amount": 26.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/09",
+      "postDate": "03/09",
+      "description": "MARATHON 190918 FORT LAUDERDA FL",
+      "amount": 107.03,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/10",
+      "postDate": "03/10",
+      "description": "RF *SELECT MEDICAL C MECHANICSBURG PA",
+      "amount": 41.09,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/11",
+      "postDate": "03/11",
+      "description": "BESTBUYCOM807153830110 RICHFIELD MN",
+      "amount": 53.49,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    }
+  ],
+  "sourceFile": "March_13.txt"
+}

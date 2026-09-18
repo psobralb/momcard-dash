@@ -1,0 +1,1050 @@
+{
+  "summary": {
+    "last4": "0183",
+    "name": "PAULA BARIFOUSE",
+    "product": "Citi AAdvantage Executive Mastercard",
+    "period": "03/14/26-04/14/26",
+    "purchases": 9771.97,
+    "newBalance": 4571.97,
+    "interest": 0.0,
+    "minPayment": 46.0,
+    "due": "05/10/26",
+    "payments": -9807.93,
+    "credits": -262.5,
+    "previousBalance": 4870.43
+  },
+  "parsedCount": 95,
+  "parsedSum": 9771.97,
+  "byCategory": {
+    "pedro-tech-saas": 825.07,
+    "other": 4462.5,
+    "fl-household": 4484.4
+  },
+  "pedroTechTotal": 825.07,
+  "pedroWorkOnsiteTotal": 0,
+  "transactions": [
+    {
+      "transDate": "03/13",
+      "postDate": "03/14",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 19.98,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/14",
+      "postDate": "03/14",
+      "description": "UBER *EATS 8005928996 CA",
+      "amount": 74.46,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/14",
+      "postDate": "03/14",
+      "description": "DNH*GODADDY#4038492844 TEMPE AZ",
+      "amount": 19.98,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "03/14",
+      "postDate": "03/14",
+      "description": "EMERSON CRISTIANO HA NORTH MIAMI B FL",
+      "amount": 522.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/15",
+      "postDate": "03/15",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 48.95,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/15",
+      "postDate": "03/15",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 40.96,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/17",
+      "postDate": "03/17",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 50.95,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/17",
+      "postDate": "03/17",
+      "description": "DNH*GODADDY#4040957410 TEMPE AZ",
+      "amount": 22.19,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "03/18",
+      "postDate": "03/18",
+      "description": "Microsoft*Microsoft 36 Redmond WA",
+      "amount": 129.99,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/18",
+      "postDate": "03/18",
+      "description": "BESTBUYCOM807155720024 RICHFIELD MN",
+      "amount": 106.99,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/19",
+      "postDate": "03/19",
+      "description": "SQ *FOREVER ESSENTIAL Deerfield Bea FL",
+      "amount": 309.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/20",
+      "postDate": "03/20",
+      "description": "TST* GRAZIANOS MARKET WESTON FL",
+      "amount": 12.19,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/20",
+      "postDate": "03/20",
+      "description": "TST* GRAZIANOS MARKET WESTON FL",
+      "amount": 23.74,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/20",
+      "postDate": "03/20",
+      "description": "HARD ROCK STADIUM REST MIAMI FL",
+      "amount": 18.63,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/20",
+      "postDate": "03/20",
+      "description": "HARD ROCK JWO SITE MIAMI GARDENS FL",
+      "amount": 30.84,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/21",
+      "postDate": "03/21",
+      "description": "IC* INSTACART*159 LAKELAND FL",
+      "amount": 140.9,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/22",
+      "postDate": "03/22",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 47.94,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/22",
+      "postDate": "03/22",
+      "description": "DNH*GODADDY#4045535648 TEMPE AZ",
+      "amount": 9.99,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "03/22",
+      "postDate": "03/22",
+      "description": "HARD ROCK STADIUM REST MIAMI FL",
+      "amount": 15.11,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/22",
+      "postDate": "03/22",
+      "description": "HARD ROCK STADIUM REST MIAMI FL",
+      "amount": 18.36,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/22",
+      "postDate": "03/22",
+      "description": "SP TRUECLASSICTEES.C BEVERLY HILLS CA",
+      "amount": 83.46,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/22",
+      "postDate": "03/22",
+      "description": "SP TRUECLASSICTEES.C BEVERLY HILLS CA",
+      "amount": 153.51,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/22",
+      "postDate": "03/22",
+      "description": "SP TRUECLASSICTEES.C BEVERLY HILLS CA",
+      "amount": 153.51,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/22",
+      "postDate": "03/22",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 26.98,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/24",
+      "postDate": "03/24",
+      "description": "KOKO - BONE PET BOUTIQ FORT LAUDERDA FL",
+      "amount": 85.9,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/24",
+      "postDate": "03/24",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 147.34,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/26",
+      "postDate": "03/26",
+      "description": "SQ *FOREVER ESSENTIAL Deerfield Bea FL",
+      "amount": 1500.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/27",
+      "postDate": "03/27",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 9.99,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/27",
+      "postDate": "03/27",
+      "description": "ELITE PAINCARE DAVIE FL",
+      "amount": 35.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/28",
+      "postDate": "03/28",
+      "description": "Google YouTube Videos Mountain View CA",
+      "amount": 2.99,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/29",
+      "postDate": "03/29",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 39.94,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/29",
+      "postDate": "03/29",
+      "description": "PUBLIX #1079 WESTON FL",
+      "amount": 27.83,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/30",
+      "postDate": "03/30",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 54.95,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "03/30",
+      "postDate": "03/30",
+      "description": "COMPLETE WATER SYSTEMS DAVIE FL",
+      "amount": 418.12,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/31",
+      "postDate": "03/31",
+      "description": "AUTOSPARK Miami FL",
+      "amount": 40.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/03",
+      "postDate": "04/03",
+      "description": "EMERSON CRISTIANO HA NORTH MIAMI B FL",
+      "amount": 230.52,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/04",
+      "postDate": "04/04",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 35.96,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "04/04",
+      "postDate": "04/04",
+      "description": "LA FITNESS IRVINE CA",
+      "amount": 42.79,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/05",
+      "postDate": "04/05",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 14.7,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "04/06",
+      "postDate": "04/06",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 44.94,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "04/07",
+      "postDate": "04/07",
+      "description": "TST* PUBBELLY SUSHI - MIAMI FL",
+      "amount": 25.06,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/07",
+      "postDate": "04/07",
+      "description": "DNH*GODADDY#4058533903 TEMPE AZ",
+      "amount": 19.98,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "04/07",
+      "postDate": "04/07",
+      "description": "PUBLIX #372 DAVIE FL",
+      "amount": 31.89,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/07",
+      "postDate": "04/07",
+      "description": "ELITE PAINCARE DAVIE FL",
+      "amount": 37.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/08",
+      "postDate": "04/08",
+      "description": "IC* INSTACART*159 LAKELAND FL",
+      "amount": 11.83,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/08",
+      "postDate": "04/08",
+      "description": "ROBERTS SPACE IND LLC BEE CAVE TX",
+      "amount": 20.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/08",
+      "postDate": "04/08",
+      "description": "IC* INSTACART*159 LAKELAND FL",
+      "amount": 294.83,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/08",
+      "postDate": "04/08",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 5.27,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "04/09",
+      "postDate": "04/09",
+      "description": "American Eagle Outfitt Pittsburgh PA",
+      "amount": 120.81,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/09",
+      "postDate": "04/09",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 27.98,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "04/09",
+      "postDate": "04/09",
+      "description": "MCDONALD'S F681 FORT LAUDERDA FL",
+      "amount": 14.2,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/09",
+      "postDate": "04/09",
+      "description": "ELEVENLABS.IO NEW YORK NY",
+      "amount": 22.0,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "ElevenLabs"
+    },
+    {
+      "transDate": "04/09",
+      "postDate": "04/09",
+      "description": "NESPRESSO USA INC Wilmington DE",
+      "amount": 159.84,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/09",
+      "postDate": "04/09",
+      "description": "CHEVRON 0047250 FORT LAUDERDA FL",
+      "amount": 7.91,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/09",
+      "postDate": "04/09",
+      "description": "MARATHON 190918 FORT LAUDERDA FL",
+      "amount": 13.8,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/09",
+      "postDate": "04/09",
+      "description": "HOLY CROSS STARBUCKS AVENTURA FL",
+      "amount": 15.66,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/09",
+      "postDate": "04/09",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 33.97,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "04/11",
+      "postDate": "04/11",
+      "description": "GRIFFIN SHELL DAVIE FL",
+      "amount": 6.39,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/12",
+      "postDate": "04/12",
+      "description": "DNH*GODADDY#4062595394 TEMPE AZ",
+      "amount": 23.19,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "04/12",
+      "postDate": "04/12",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 9.99,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "04/12",
+      "postDate": "04/12",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 46.95,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "04/13",
+      "postDate": "04/13",
+      "description": "UBER *EATS 8005928996 CA",
+      "amount": 132.28,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/15",
+      "postDate": "03/15",
+      "description": "LAGOINHA MIAMI CHURCH MIAMI FL",
+      "amount": 850.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/16",
+      "postDate": "03/16",
+      "description": "ELITE PAINCARE DAVIE FL",
+      "amount": 27.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/19",
+      "postDate": "03/19",
+      "description": "TST* OFFERDAHL'S OFF T WESTON FL",
+      "amount": 3.52,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/22",
+      "postDate": "03/22",
+      "description": "HARD ROCK STADIUM REST MIAMI FL",
+      "amount": 15.44,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/22",
+      "postDate": "03/22",
+      "description": "HARD ROCK STADIUM REST MIAMI FL",
+      "amount": 16.15,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/22",
+      "postDate": "03/22",
+      "description": "HARD ROCK STADIUM REST MIAMI FL",
+      "amount": 16.62,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/22",
+      "postDate": "03/22",
+      "description": "HARD ROCK STADIUM REST MIAMI FL",
+      "amount": 21.11,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/22",
+      "postDate": "03/22",
+      "description": "HARD ROCK STADIUM REST MIAMI FL",
+      "amount": 25.61,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/22",
+      "postDate": "03/22",
+      "description": "HARD ROCK STADIUM REST MIAMI FL",
+      "amount": 28.68,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/22",
+      "postDate": "03/22",
+      "description": "HARD ROCK STADIUM REST MIAMI FL",
+      "amount": 29.7,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/22",
+      "postDate": "03/22",
+      "description": "HARD ROCK STADIUM REST MIAMI FL",
+      "amount": 35.64,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/22",
+      "postDate": "03/22",
+      "description": "HARD ROCK STADIUM REST MIAMI FL",
+      "amount": 38.4,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/23",
+      "postDate": "03/23",
+      "description": "REMEMBR SUNRISE FL",
+      "amount": 38.51,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/23",
+      "postDate": "03/23",
+      "description": "REMEMBR SUNRISE FL",
+      "amount": 61.97,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/24",
+      "postDate": "03/24",
+      "description": "CVS/PHARMACY #03609 WESTON FL",
+      "amount": 22.94,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "03/24",
+      "postDate": "03/24",
+      "description": "PUBLIX #1469 WESTON FL",
+      "amount": 56.16,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/03",
+      "postDate": "04/03",
+      "description": "REMEMBR SUNRISE FL",
+      "amount": 64.19,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/03",
+      "postDate": "04/03",
+      "description": "TST*SALUMERIA WESTON Weston FL",
+      "amount": 90.17,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/03",
+      "postDate": "04/03",
+      "description": "CIRCLE K 08534 SUNRISE FL",
+      "amount": 131.78,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/05",
+      "postDate": "04/05",
+      "description": "TST*REMEMBR MIAMI Miami FL",
+      "amount": 101.07,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/05",
+      "postDate": "04/05",
+      "description": "TST*REMEMBR MIAMI Miami FL",
+      "amount": 154.4,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/05",
+      "postDate": "04/05",
+      "description": "REMEMBR SUNRISE FL",
+      "amount": 157.26,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/05",
+      "postDate": "04/05",
+      "description": "TST*REMEMBR MIAMI Miami FL",
+      "amount": 266.24,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/05",
+      "postDate": "04/05",
+      "description": "LAGOINHA MIAMI CHURCH MIAMI FL",
+      "amount": 900.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/06",
+      "postDate": "04/06",
+      "description": "HOLY CROSS STARBUCKS AVENTURA FL",
+      "amount": 13.09,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/06",
+      "postDate": "04/06",
+      "description": "FT LAUDERDALE HOLY CRO FT LAUDERDALE FL",
+      "amount": 57.62,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/06",
+      "postDate": "04/06",
+      "description": "PET SUPERMARKET #184 WESTON FL",
+      "amount": 68.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/08",
+      "postDate": "04/08",
+      "description": "HOLY CROSS STARBUCKS AVENTURA FL",
+      "amount": 6.1,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/08",
+      "postDate": "04/08",
+      "description": "HOLY CROSS STARBUCKS AVENTURA FL",
+      "amount": 14.38,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/08",
+      "postDate": "04/08",
+      "description": "FT LAUDERDALE HOLY CRO FT LAUDERDALE FL",
+      "amount": 300.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/10",
+      "postDate": "04/10",
+      "description": "WWW COSTCO COM ISSAQUAH WA",
+      "amount": 106.99,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/11",
+      "postDate": "04/11",
+      "description": "CHILI'S WESTON WESTON FL",
+      "amount": 103.06,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "04/11",
+      "postDate": "04/11",
+      "description": "WWW COSTCO COM ISSAQUAH WA",
+      "amount": 57.76,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    }
+  ],
+  "sourceFile": "April_14.txt"
+}

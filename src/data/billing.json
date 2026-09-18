@@ -1,0 +1,1645 @@
+{
+  "generatedAt": "2026-09-18T09:10:00-04:00",
+  "account": "luccasobral6@gmail.com",
+  "scope": "mom/family personal \u2014 excludes Boring Company work POs",
+  "statements": [
+    {
+      "id": "citi-0183-2026-01",
+      "date": "2026-01-14T00:00:00Z",
+      "issuer": "Citi",
+      "merchant": "Citi AAdvantage Executive Mastercard",
+      "subject": "2026-01 statement \u2014 Paula Barifouse ****0183",
+      "amount": 4175.43,
+      "newBalance": 2377.91,
+      "dueDate": "2026-02-10",
+      "accountLast4": "0183",
+      "hasLineItems": true,
+      "namedAs": "mom",
+      "namedDetail": "PAULA BARIFOUSE",
+      "kind": "full-statement-pdf",
+      "source": "extratos-fwd-1a0b47bf767d8f36",
+      "billingPeriod": "12/13/25-01/14/26",
+      "interest": 102.48,
+      "pedroTechTotal": 238.7,
+      "pedroWorkOnsiteTotal": 0,
+      "bastropLocalTotal": 0,
+      "flags": [
+        "mom-citi",
+        "has-line-items",
+        "pedro-tech-on-mom-card",
+        "extratos-audit"
+      ]
+    },
+    {
+      "id": "citi-0183-2026-02",
+      "date": "2026-02-13T00:00:00Z",
+      "issuer": "Citi",
+      "merchant": "Citi AAdvantage Executive Mastercard",
+      "subject": "2026-02 statement \u2014 Paula Barifouse ****0183",
+      "amount": 7081.89,
+      "newBalance": 8465.14,
+      "dueDate": "2026-03-10",
+      "accountLast4": "0183",
+      "hasLineItems": true,
+      "namedAs": "mom",
+      "namedDetail": "PAULA BARIFOUSE",
+      "kind": "full-statement-pdf",
+      "source": "extratos-fwd-1a0b47bf767d8f36",
+      "billingPeriod": "01/15/26-02/13/26",
+      "interest": 0.0,
+      "pedroTechTotal": 63.14,
+      "pedroWorkOnsiteTotal": 0,
+      "bastropLocalTotal": 0,
+      "flags": [
+        "mom-citi",
+        "has-line-items",
+        "pedro-tech-on-mom-card",
+        "extratos-audit"
+      ]
+    },
+    {
+      "id": "citi-0183-2026-03",
+      "date": "2026-03-13T00:00:00Z",
+      "issuer": "Citi",
+      "merchant": "Citi AAdvantage Executive Mastercard",
+      "subject": "2026-03 statement \u2014 Paula Barifouse ****0183",
+      "amount": 5107.93,
+      "newBalance": 4870.43,
+      "dueDate": "2026-04-10",
+      "accountLast4": "0183",
+      "hasLineItems": true,
+      "namedAs": "mom",
+      "namedDetail": "PAULA BARIFOUSE",
+      "kind": "full-statement-pdf",
+      "source": "extratos-fwd-1a0b47bf767d8f36",
+      "billingPeriod": "02/14/26-03/13/26",
+      "interest": 0.0,
+      "pedroTechTotal": 272.76,
+      "pedroWorkOnsiteTotal": 0,
+      "bastropLocalTotal": 0,
+      "flags": [
+        "mom-citi",
+        "has-line-items",
+        "pedro-tech-on-mom-card",
+        "extratos-audit"
+      ]
+    },
+    {
+      "id": "citi-0183-2026-04",
+      "date": "2026-04-14T00:00:00Z",
+      "issuer": "Citi",
+      "merchant": "Citi AAdvantage Executive Mastercard",
+      "subject": "2026-04 statement \u2014 Paula Barifouse ****0183",
+      "amount": 9771.97,
+      "newBalance": 4571.97,
+      "dueDate": "2026-05-10",
+      "accountLast4": "0183",
+      "hasLineItems": true,
+      "namedAs": "mom",
+      "namedDetail": "PAULA BARIFOUSE",
+      "kind": "full-statement-pdf",
+      "source": "extratos-fwd-1a0b47bf767d8f36",
+      "billingPeriod": "03/14/26-04/14/26",
+      "interest": 0.0,
+      "pedroTechTotal": 803.07,
+      "pedroWorkOnsiteTotal": 0,
+      "bastropLocalTotal": 0,
+      "flags": [
+        "mom-citi",
+        "has-line-items",
+        "pedro-tech-on-mom-card",
+        "extratos-audit"
+      ]
+    },
+    {
+      "id": "citi-0183-2026-05",
+      "date": "2026-05-14T00:00:00Z",
+      "issuer": "Citi",
+      "merchant": "Citi AAdvantage Executive Mastercard",
+      "subject": "2026-05 statement \u2014 Paula Barifouse ****0183",
+      "amount": 9795.06,
+      "newBalance": 8569.48,
+      "dueDate": "2026-06-10",
+      "accountLast4": "0183",
+      "hasLineItems": true,
+      "namedAs": "mom",
+      "namedDetail": "PAULA BARIFOUSE",
+      "kind": "full-statement-pdf",
+      "source": "extratos-fwd-1a0b47bf767d8f36",
+      "billingPeriod": "04/15/26-05/14/26",
+      "interest": 3.04,
+      "pedroTechTotal": 547.72,
+      "pedroWorkOnsiteTotal": 0,
+      "bastropLocalTotal": 0,
+      "flags": [
+        "mom-citi",
+        "has-line-items",
+        "pedro-tech-on-mom-card",
+        "extratos-audit"
+      ]
+    },
+    {
+      "id": "citi-0183-2026-06",
+      "date": "2026-06-12T00:00:00Z",
+      "issuer": "Citi",
+      "merchant": "Citi AAdvantage Executive Mastercard",
+      "subject": "2026-06 statement \u2014 Paula Barifouse ****0183",
+      "amount": 17146.96,
+      "newBalance": 17681.07,
+      "dueDate": "2026-07-10",
+      "accountLast4": "0183",
+      "hasLineItems": true,
+      "namedAs": "mom",
+      "namedDetail": "PAULA BARIFOUSE",
+      "kind": "full-statement-pdf",
+      "source": "extratos-fwd-1a0b47bf767d8f36",
+      "billingPeriod": "05/15/26-06/12/26",
+      "interest": 18.49,
+      "pedroTechTotal": 451.61,
+      "pedroWorkOnsiteTotal": 0,
+      "bastropLocalTotal": 12.0,
+      "flags": [
+        "mom-citi",
+        "has-line-items",
+        "pedro-tech-on-mom-card",
+        "extratos-audit"
+      ]
+    },
+    {
+      "id": "citi-0183-2026-07",
+      "date": "2026-07-14T00:00:00Z",
+      "issuer": "Citi",
+      "merchant": "Citi AAdvantage Executive Mastercard",
+      "subject": "2026-07 statement \u2014 Paula Barifouse ****0183",
+      "amount": 10776.48,
+      "newBalance": 24455.87,
+      "dueDate": "2026-08-10",
+      "accountLast4": "0183",
+      "hasLineItems": true,
+      "namedAs": "mom",
+      "namedDetail": "PAULA BARIFOUSE",
+      "kind": "full-statement-pdf",
+      "source": "extratos-fwd-1a0b47bf767d8f36",
+      "billingPeriod": "06/13/26-07/14/26",
+      "interest": 188.59,
+      "pedroTechTotal": 731.42,
+      "pedroWorkOnsiteTotal": 0,
+      "bastropLocalTotal": 100.0,
+      "flags": [
+        "mom-citi",
+        "has-line-items",
+        "pedro-tech-on-mom-card",
+        "extratos-audit"
+      ]
+    },
+    {
+      "id": "citi-0183-2026-08",
+      "date": "2026-08-14T00:00:00Z",
+      "issuer": "Citi",
+      "merchant": "Citi AAdvantage Executive Mastercard",
+      "subject": "2026-08 statement \u2014 Paula Barifouse ****0183",
+      "amount": 8176.63,
+      "newBalance": 6788.7,
+      "dueDate": "2026-09-10",
+      "accountLast4": "0183",
+      "hasLineItems": true,
+      "namedAs": "mom",
+      "namedDetail": "PAULA BARIFOUSE",
+      "kind": "full-statement-pdf",
+      "source": "extratos-fwd-1a0b47bf767d8f36",
+      "billingPeriod": "07/15/26-08/14/26",
+      "interest": 0.0,
+      "pedroTechTotal": 706.71,
+      "pedroWorkOnsiteTotal": 30.3,
+      "bastropLocalTotal": 412.38,
+      "flags": [
+        "mom-citi",
+        "has-line-items",
+        "pedro-tech-on-mom-card",
+        "extratos-audit"
+      ]
+    },
+    {
+      "id": "citi-0183-2026-09",
+      "date": "2026-09-14T00:00:00Z",
+      "issuer": "Citi",
+      "merchant": "Citi AAdvantage Executive Mastercard",
+      "subject": "2026-09 statement \u2014 Paula Barifouse ****0183",
+      "amount": 12654.99,
+      "newBalance": 19156.12,
+      "dueDate": "2026-10-10",
+      "accountLast4": "0183",
+      "hasLineItems": true,
+      "namedAs": "mom",
+      "namedDetail": "PAULA BARIFOUSE",
+      "kind": "full-statement-pdf",
+      "source": "extratos-fwd-1a0b47bf767d8f36",
+      "billingPeriod": "08/15/26-09/14/26",
+      "interest": 279.8,
+      "pedroTechTotal": 1283.71,
+      "pedroWorkOnsiteTotal": 175.16,
+      "bastropLocalTotal": 1411.03,
+      "flags": [
+        "mom-citi",
+        "has-line-items",
+        "pedro-tech-on-mom-card",
+        "extratos-audit"
+      ]
+    },
+    {
+      "id": "citi-priority-April-1---April-30,-2026",
+      "date": null,
+      "issuer": "Citi",
+      "merchant": "Citi Priority Account 9138337215",
+      "subject": "Priority deposit stmt \u2014 April 1 - April 30, 2026 ITF Mauricio",
+      "amount": null,
+      "newBalance": 4067.55,
+      "beginningBalance": 10782.41,
+      "chubbPayrollTotal": 1073.37,
+      "accountLast4": "7215",
+      "hasLineItems": true,
+      "namedAs": "mom",
+      "namedDetail": "PAULA PINHEIRO A.B. SOBRAL ITF MAURICIO",
+      "kind": "checking-statement-pdf",
+      "source": "extratos-fwd-1a0b47bf767d8f36",
+      "flags": [
+        "mom-citi-priority",
+        "checking",
+        "extratos-audit"
+      ]
+    },
+    {
+      "id": "citi-priority-Aug-1---Aug-31,-2026",
+      "date": null,
+      "issuer": "Citi",
+      "merchant": "Citi Priority Account 9138337215",
+      "subject": "Priority deposit stmt \u2014 Aug 1 - Aug 31, 2026 ITF Mauricio",
+      "amount": null,
+      "newBalance": 2172.91,
+      "beginningBalance": 1020.24,
+      "chubbPayrollTotal": 1066.68,
+      "accountLast4": "7215",
+      "hasLineItems": true,
+      "namedAs": "mom",
+      "namedDetail": "PAULA PINHEIRO A.B. SOBRAL ITF MAURICIO",
+      "kind": "checking-statement-pdf",
+      "source": "extratos-fwd-1a0b47bf767d8f36",
+      "flags": [
+        "mom-citi-priority",
+        "checking",
+        "extratos-audit"
+      ]
+    },
+    {
+      "id": "citi-priority-Feb-1---Feb-28,-2026",
+      "date": null,
+      "issuer": "Citi",
+      "merchant": "Citi Priority Account 9138337215",
+      "subject": "Priority deposit stmt \u2014 Feb 1 - Feb 28, 2026 ITF Mauricio",
+      "amount": null,
+      "newBalance": 707.01,
+      "beginningBalance": 2217.67,
+      "chubbPayrollTotal": 963.4,
+      "accountLast4": "7215",
+      "hasLineItems": true,
+      "namedAs": "mom",
+      "namedDetail": "PAULA PINHEIRO A.B. SOBRAL ITF MAURICIO",
+      "kind": "checking-statement-pdf",
+      "source": "extratos-fwd-1a0b47bf767d8f36",
+      "flags": [
+        "mom-citi-priority",
+        "checking",
+        "extratos-audit"
+      ]
+    },
+    {
+      "id": "citi-priority-Jan-1---Jan-31,-2026",
+      "date": null,
+      "issuer": "Citi",
+      "merchant": "Citi Priority Account 9138337215",
+      "subject": "Priority deposit stmt \u2014 Jan 1 - Jan 31, 2026 ITF Mauricio",
+      "amount": null,
+      "newBalance": 2217.67,
+      "beginningBalance": 237.74,
+      "chubbPayrollTotal": 1479.9,
+      "accountLast4": "7215",
+      "hasLineItems": true,
+      "namedAs": "mom",
+      "namedDetail": "PAULA PINHEIRO A.B. SOBRAL ITF MAURICIO",
+      "kind": "checking-statement-pdf",
+      "source": "extratos-fwd-1a0b47bf767d8f36",
+      "flags": [
+        "mom-citi-priority",
+        "checking",
+        "extratos-audit"
+      ]
+    },
+    {
+      "id": "citi-priority-Jul-1---Jul-31,-2026",
+      "date": null,
+      "issuer": "Citi",
+      "merchant": "Citi Priority Account 9138337215",
+      "subject": "Priority deposit stmt \u2014 Jul 1 - Jul 31, 2026 ITF Mauricio",
+      "amount": null,
+      "newBalance": 1020.24,
+      "beginningBalance": 2901.09,
+      "chubbPayrollTotal": 1633.51,
+      "accountLast4": "7215",
+      "hasLineItems": true,
+      "namedAs": "mom",
+      "namedDetail": "PAULA PINHEIRO A.B. SOBRAL ITF MAURICIO",
+      "kind": "checking-statement-pdf",
+      "source": "extratos-fwd-1a0b47bf767d8f36",
+      "flags": [
+        "mom-citi-priority",
+        "checking",
+        "extratos-audit"
+      ]
+    },
+    {
+      "id": "citi-priority-June-1---June-30,-2026",
+      "date": null,
+      "issuer": "Citi",
+      "merchant": "Citi Priority Account 9138337215",
+      "subject": "Priority deposit stmt \u2014 June 1 - June 30, 2026 ITF Mauricio",
+      "amount": null,
+      "newBalance": 2901.09,
+      "beginningBalance": 1874.33,
+      "chubbPayrollTotal": 1066.68,
+      "accountLast4": "7215",
+      "hasLineItems": true,
+      "namedAs": "mom",
+      "namedDetail": "PAULA PINHEIRO A.B. SOBRAL ITF MAURICIO",
+      "kind": "checking-statement-pdf",
+      "source": "extratos-fwd-1a0b47bf767d8f36",
+      "flags": [
+        "mom-citi-priority",
+        "checking",
+        "extratos-audit"
+      ]
+    },
+    {
+      "id": "citi-priority-Mar-1---Mar-31,-2026",
+      "date": null,
+      "issuer": "Citi",
+      "merchant": "Citi Priority Account 9138337215",
+      "subject": "Priority deposit stmt \u2014 Mar 1 - Mar 31, 2026 ITF Mauricio",
+      "amount": null,
+      "newBalance": 10782.41,
+      "beginningBalance": 707.01,
+      "chubbPayrollTotal": 6026.92,
+      "accountLast4": "7215",
+      "hasLineItems": true,
+      "namedAs": "mom",
+      "namedDetail": "PAULA PINHEIRO A.B. SOBRAL ITF MAURICIO",
+      "kind": "checking-statement-pdf",
+      "source": "extratos-fwd-1a0b47bf767d8f36",
+      "flags": [
+        "mom-citi-priority",
+        "checking",
+        "extratos-audit"
+      ]
+    },
+    {
+      "id": "citi-priority-May-1---May-31,-2026",
+      "date": null,
+      "issuer": "Citi",
+      "merchant": "Citi Priority Account 9138337215",
+      "subject": "Priority deposit stmt \u2014 May 1 - May 31, 2026 ITF Mauricio",
+      "amount": null,
+      "newBalance": 1874.33,
+      "beginningBalance": 4067.55,
+      "chubbPayrollTotal": 1066.68,
+      "accountLast4": "7215",
+      "hasLineItems": true,
+      "namedAs": "mom",
+      "namedDetail": "PAULA PINHEIRO A.B. SOBRAL ITF MAURICIO",
+      "kind": "checking-statement-pdf",
+      "source": "extratos-fwd-1a0b47bf767d8f36",
+      "flags": [
+        "mom-citi-priority",
+        "checking",
+        "extratos-audit"
+      ]
+    },
+    {
+      "id": "railway-2026-09-06",
+      "date": "2026-09-06T10:04:53Z",
+      "issuer": "Railway",
+      "merchant": "Railway Corporation",
+      "subject": "Receipt #2454-2268 \u2014 $120.75",
+      "amount": 120.75,
+      "accountLast4": "3366",
+      "hasLineItems": false,
+      "namedAs": "pedro",
+      "kind": "email-receipt",
+      "source": "user-Gmail--pedelucca",
+      "threadId": "1a0762d93e565f82",
+      "flags": [
+        "pedro-tech",
+        "not-mom-card"
+      ]
+    },
+    {
+      "id": "vercel-2026-09-06-45.38",
+      "date": "2026-09-06T12:00:00Z",
+      "issuer": "Vercel",
+      "merchant": "Vercel Inc.",
+      "subject": "Receipt $45.38 \u2014 Neon marketplace usage",
+      "amount": 45.38,
+      "accountLast4": "0183",
+      "hasLineItems": false,
+      "namedAs": "mom",
+      "kind": "email-receipt",
+      "source": "user-Gmail--pedelucca",
+      "messageId": "1a0780ad37cdd665",
+      "flags": [
+        "pedro-tech",
+        "mom-citi"
+      ]
+    },
+    {
+      "id": "vercel-2026-09-07-19.99",
+      "date": "2026-09-07T12:00:00Z",
+      "issuer": "Vercel",
+      "merchant": "Vercel Inc.",
+      "subject": "Receipt $19.99 \u2014 Domain housemates.pet \u2014 NOT 0183",
+      "amount": 19.99,
+      "accountLast4": "1431",
+      "hasLineItems": false,
+      "namedAs": "pedro",
+      "kind": "email-receipt",
+      "source": "user-Gmail--pedelucca",
+      "messageId": "1a07bd41344f7316",
+      "flags": [
+        "pedro-tech",
+        "not-mom-card"
+      ]
+    },
+    {
+      "id": "vercel-2026-09-10-147.91",
+      "date": "2026-09-10T12:00:00Z",
+      "issuer": "Vercel",
+      "merchant": "Vercel Inc.",
+      "subject": "Receipt $147.91 \u2014 Pro+usage overages",
+      "amount": 147.91,
+      "accountLast4": "0183",
+      "hasLineItems": false,
+      "namedAs": "mom",
+      "kind": "email-receipt",
+      "source": "user-Gmail--pedelucca",
+      "messageId": "1a08d27f5e450032",
+      "flags": [
+        "pedro-tech",
+        "mom-citi"
+      ]
+    },
+    {
+      "id": "vercel-2026-09-12-60.0",
+      "date": "2026-09-12T12:00:00Z",
+      "issuer": "Vercel",
+      "merchant": "Vercel Inc.",
+      "subject": "Receipt $60.0 \u2014 v0 Seats x2",
+      "amount": 60.0,
+      "accountLast4": "0183",
+      "hasLineItems": false,
+      "namedAs": "mom",
+      "kind": "email-receipt",
+      "source": "user-Gmail--pedelucca",
+      "messageId": "1a094b7b9b7c5bed",
+      "flags": [
+        "pedro-tech",
+        "mom-citi"
+      ]
+    },
+    {
+      "id": "vercel-2026-09-13-75.0",
+      "date": "2026-09-13T12:00:00Z",
+      "issuer": "Vercel",
+      "merchant": "Vercel Inc.",
+      "subject": "Receipt $75.0 \u2014 Supabase Pro+compute via Vercel",
+      "amount": 75.0,
+      "accountLast4": "0183",
+      "hasLineItems": false,
+      "namedAs": "mom",
+      "kind": "email-receipt",
+      "source": "user-Gmail--pedelucca",
+      "messageId": "1a09a4d078bf9daf",
+      "flags": [
+        "pedro-tech",
+        "mom-citi"
+      ]
+    },
+    {
+      "id": "pp-2026-08",
+      "date": "2026-09-18T02:08:35Z",
+      "issuer": "PayPal",
+      "merchant": "PayPal",
+      "subject": "Paula, your August account statement is available.",
+      "amount": null,
+      "dueDate": null,
+      "accountLast4": null,
+      "hasLineItems": false,
+      "namedAs": "mom",
+      "namedDetail": "Paula Sobral",
+      "kind": "notification-only",
+      "threadId": "1a0b245d398d63fc",
+      "messageId": "1a0b245d398d63fc",
+      "unread": true,
+      "flags": [
+        "recurring",
+        "mom-paypal"
+      ]
+    },
+    {
+      "id": "pp-2026-07",
+      "date": "2026-08-15T21:14:39Z",
+      "issuer": "PayPal",
+      "merchant": "PayPal",
+      "subject": "Paula, your July account statement is available.",
+      "amount": null,
+      "dueDate": null,
+      "accountLast4": null,
+      "hasLineItems": false,
+      "namedAs": "mom",
+      "namedDetail": "Paula Sobral",
+      "kind": "notification-only",
+      "threadId": "1a00746dc123dbbe",
+      "messageId": "1a00746dc123dbbe",
+      "unread": true,
+      "flags": [
+        "recurring",
+        "mom-paypal"
+      ]
+    },
+    {
+      "id": "pp-2026-06",
+      "date": "2026-07-15T22:14:05Z",
+      "issuer": "PayPal",
+      "merchant": "PayPal",
+      "subject": "Paula, your June account statement is available.",
+      "amount": null,
+      "dueDate": null,
+      "accountLast4": null,
+      "hasLineItems": false,
+      "namedAs": "mom",
+      "namedDetail": "Paula Sobral",
+      "kind": "notification-only",
+      "threadId": "19f67d8235075e6a",
+      "messageId": "19f67d8235075e6a",
+      "unread": true,
+      "flags": [
+        "recurring",
+        "mom-paypal"
+      ]
+    },
+    {
+      "id": "pp-2026-05",
+      "date": "2026-06-16T18:12:09Z",
+      "issuer": "PayPal",
+      "merchant": "PayPal",
+      "subject": "Paula Sobral, your May account statement is available.",
+      "amount": null,
+      "dueDate": null,
+      "accountLast4": null,
+      "hasLineItems": false,
+      "namedAs": "mom",
+      "namedDetail": "Paula Sobral",
+      "kind": "notification-only",
+      "threadId": "19ed1a2395417960",
+      "messageId": "19ed1a2395417960",
+      "unread": true,
+      "flags": [
+        "recurring",
+        "mom-paypal"
+      ]
+    },
+    {
+      "id": "pp-2026-04b",
+      "date": "2026-05-31T16:23:45Z",
+      "issuer": "PayPal",
+      "merchant": "PayPal",
+      "subject": "Paula, your April account statement - Link Corrected",
+      "amount": null,
+      "dueDate": null,
+      "accountLast4": null,
+      "hasLineItems": false,
+      "namedAs": "mom",
+      "namedDetail": "Paula Sobral",
+      "kind": "notification-only",
+      "threadId": "19e7ed938b6e8bfc",
+      "messageId": "19e7ed938b6e8bfc",
+      "unread": true,
+      "flags": [
+        "recurring",
+        "mom-paypal",
+        "link-corrected"
+      ]
+    },
+    {
+      "id": "pp-2026-04",
+      "date": "2026-05-15T22:38:26Z",
+      "issuer": "PayPal",
+      "merchant": "PayPal",
+      "subject": "Paula, your April account statement is available.",
+      "amount": null,
+      "dueDate": null,
+      "accountLast4": null,
+      "hasLineItems": false,
+      "namedAs": "mom",
+      "namedDetail": "Paula Sobral",
+      "kind": "notification-only",
+      "threadId": "19e2dca85a6fb4b6",
+      "messageId": "19e2dca85a6fb4b6",
+      "unread": true,
+      "flags": [
+        "recurring",
+        "mom-paypal"
+      ]
+    },
+    {
+      "id": "c1-plat-2026-09",
+      "date": "2026-09-17T14:21:13Z",
+      "issuer": "Capital One",
+      "merchant": "Capital One Platinum",
+      "subject": "Your Platinum Card statement is ready",
+      "amount": 284.09,
+      "currency": "USD",
+      "minimumPayment": 25.0,
+      "dueDate": "2026-10-11",
+      "accountLast4": "2484",
+      "hasLineItems": false,
+      "namedAs": "pedro",
+      "namedDetail": "PEDRO DE LUCCA BARIFOUSE SOBRAL",
+      "kind": "statement-with-totals",
+      "threadId": "1a0afbe37d8e4978",
+      "messageId": "1a0afbe37d8e4978",
+      "unread": true,
+      "flags": [
+        "new-card",
+        "family-inbox"
+      ],
+      "note": "First statement on new Platinum; totals in email, no line items."
+    },
+    {
+      "id": "boa-2026-08",
+      "date": "2026-08-28T02:22:14Z",
+      "issuer": "Bank of America",
+      "merchant": "Bank of America",
+      "subject": "Your statement is available",
+      "amount": null,
+      "dueDate": null,
+      "accountLast4": "2880",
+      "accountLabel": "ADV PLUS BANKING",
+      "hasLineItems": false,
+      "namedAs": "ambiguous",
+      "namedDetail": "account on luccasobral6 inbox",
+      "kind": "notification-only",
+      "threadId": "1a0462cf6d88a598",
+      "messageId": "1a0462cf6d88a598",
+      "unread": true,
+      "flags": [
+        "recurring",
+        "boa-checking"
+      ]
+    },
+    {
+      "id": "boa-2026-07",
+      "date": "2026-07-30T02:16:40Z",
+      "issuer": "Bank of America",
+      "merchant": "Bank of America",
+      "subject": "Your statement is available",
+      "amount": null,
+      "dueDate": null,
+      "accountLast4": "2880",
+      "accountLabel": "ADV PLUS BANKING",
+      "hasLineItems": false,
+      "namedAs": "ambiguous",
+      "kind": "notification-only",
+      "threadId": "19fb0cf68f0bc063",
+      "messageId": "19fb0cf68f0bc063",
+      "unread": true,
+      "flags": [
+        "recurring",
+        "boa-checking"
+      ]
+    },
+    {
+      "id": "boa-2026-06",
+      "date": "2026-06-27T02:16:54Z",
+      "issuer": "Bank of America",
+      "merchant": "Bank of America",
+      "subject": "Your statement is available",
+      "amount": null,
+      "dueDate": null,
+      "accountLast4": "2880",
+      "hasLineItems": false,
+      "namedAs": "ambiguous",
+      "kind": "notification-only",
+      "threadId": "19f06ddcd316370f",
+      "messageId": "19f06ddcd316370f",
+      "unread": true,
+      "flags": [
+        "recurring",
+        "boa-checking"
+      ]
+    },
+    {
+      "id": "boa-2026-05",
+      "date": "2026-05-25T02:14:59Z",
+      "issuer": "Bank of America",
+      "merchant": "Bank of America",
+      "subject": "Your statement is available",
+      "amount": null,
+      "dueDate": null,
+      "accountLast4": "2880",
+      "hasLineItems": false,
+      "namedAs": "ambiguous",
+      "kind": "notification-only",
+      "threadId": "19e5cea0a4853f74",
+      "messageId": "19e5cea0a4853f74",
+      "unread": true,
+      "flags": [
+        "recurring",
+        "boa-checking"
+      ]
+    },
+    {
+      "id": "boa-2026-04",
+      "date": "2026-04-27T02:16:43Z",
+      "issuer": "Bank of America",
+      "merchant": "Bank of America",
+      "subject": "Your statement is available",
+      "amount": null,
+      "dueDate": null,
+      "accountLast4": "2880",
+      "hasLineItems": false,
+      "namedAs": "ambiguous",
+      "kind": "notification-only",
+      "threadId": "19dccb9a32176bf9",
+      "messageId": "19dccb9a32176bf9",
+      "unread": true,
+      "flags": [
+        "recurring",
+        "boa-checking"
+      ]
+    },
+    {
+      "id": "ally-2026-09",
+      "date": "2026-09-12T18:42:34Z",
+      "issuer": "Ally Auto",
+      "merchant": "Ally Bank",
+      "subject": "Your Ally billing statement is available",
+      "amount": null,
+      "dueDate": null,
+      "accountLast4": "1068",
+      "hasLineItems": false,
+      "namedAs": "family",
+      "namedDetail": "Mauricio De lacca sobral",
+      "kind": "notification-only",
+      "threadId": "1a096edb133de039",
+      "messageId": "1a096edb133de039",
+      "unread": true,
+      "flags": [
+        "recurring",
+        "vehicle-loan"
+      ]
+    },
+    {
+      "id": "ally-2026-08",
+      "date": "2026-08-14T18:42:57Z",
+      "issuer": "Ally Auto",
+      "merchant": "Ally Bank",
+      "subject": "Your Ally billing statement is available",
+      "amount": null,
+      "dueDate": null,
+      "accountLast4": "1068",
+      "hasLineItems": false,
+      "namedAs": "family",
+      "namedDetail": "Mauricio",
+      "kind": "notification-only",
+      "threadId": "1a001959e25309ac",
+      "messageId": "1a001959e25309ac",
+      "unread": true,
+      "flags": [
+        "recurring",
+        "vehicle-loan"
+      ]
+    },
+    {
+      "id": "ally-2026-07",
+      "date": "2026-07-13T18:40:14Z",
+      "issuer": "Ally Auto",
+      "merchant": "Ally Bank",
+      "subject": "Your Ally billing statement is available",
+      "amount": null,
+      "dueDate": null,
+      "accountLast4": "1068",
+      "hasLineItems": false,
+      "namedAs": "family",
+      "kind": "notification-only",
+      "threadId": "19f5cc7a06e5ceef",
+      "messageId": "19f5cc7a06e5ceef",
+      "unread": true,
+      "flags": [
+        "recurring",
+        "vehicle-loan"
+      ]
+    },
+    {
+      "id": "ally-2026-06",
+      "date": "2026-06-13T18:31:32Z",
+      "issuer": "Ally Auto",
+      "merchant": "Ally Bank",
+      "subject": "Your Ally billing statement is available",
+      "amount": null,
+      "dueDate": null,
+      "accountLast4": "1068",
+      "hasLineItems": false,
+      "namedAs": "family",
+      "kind": "notification-only",
+      "threadId": "19ec240e4f87951e",
+      "messageId": "19ec240e4f87951e",
+      "unread": true,
+      "flags": [
+        "recurring",
+        "vehicle-loan"
+      ]
+    },
+    {
+      "id": "ally-2026-05",
+      "date": "2026-05-13T18:37:07Z",
+      "issuer": "Ally Auto",
+      "merchant": "Ally Bank",
+      "subject": "Your Ally billing statement is available",
+      "amount": null,
+      "dueDate": null,
+      "accountLast4": "1068",
+      "hasLineItems": false,
+      "namedAs": "family",
+      "kind": "notification-only",
+      "threadId": "19e22a0dc4c80ce0",
+      "messageId": "19e22a0dc4c80ce0",
+      "unread": true,
+      "flags": [
+        "recurring",
+        "vehicle-loan"
+      ]
+    }
+  ],
+  "notifications": [
+    {
+      "id": "c1-activate-2026-09-17",
+      "date": "2026-09-17T22:27:43Z",
+      "issuer": "Capital One",
+      "subject": "Action needed: Ensure your physical card is activated",
+      "namedAs": "pedro",
+      "unread": true,
+      "kind": "action-needed"
+    },
+    {
+      "id": "c1-ship-2026-08-28",
+      "date": "2026-08-28T05:42:14Z",
+      "issuer": "Capital One",
+      "subject": "Your new card has shipped, PEDRO",
+      "namedAs": "pedro",
+      "unread": true,
+      "kind": "card-ops"
+    },
+    {
+      "id": "c1-approved-plat-2026-08-25",
+      "date": "2026-08-25T19:13:45Z",
+      "issuer": "Capital One",
+      "subject": "Pedro, you're approved for a Platinum Card",
+      "namedAs": "pedro",
+      "unread": true,
+      "kind": "card-ops",
+      "note": "Also QuicksilverOne benefit emails same window"
+    },
+    {
+      "id": "c1-secondary-invite-2026-09-02",
+      "date": "2026-09-02T20:47:30Z",
+      "issuer": "Capital One",
+      "subject": "You're invited to be a secondary account holder",
+      "namedAs": "out-of-scope",
+      "namedDetail": "JENNIFER MARGARET BOGUS \u2192 Pedro on 360 Checking ****9095",
+      "unread": false,
+      "kind": "invite",
+      "note": "Not Paula/mom \u2014 logged for clarity, not momcard"
+    },
+    {
+      "id": "boa-bal-2026-09-18",
+      "date": "2026-09-18T10:17:25Z",
+      "issuer": "Bank of America",
+      "subject": "Your Available Balance",
+      "amount": 1664.37,
+      "accountLast4": "2880",
+      "namedAs": "ambiguous",
+      "unread": true,
+      "kind": "balance-alert"
+    },
+    {
+      "id": "boa-nsf-2026-09-15",
+      "date": "2026-09-15T23:28:19Z",
+      "issuer": "Bank of America",
+      "subject": "Your account may have insufficient funds",
+      "accountLast4": "2880",
+      "namedAs": "ambiguous",
+      "unread": true,
+      "kind": "nsf-alert"
+    },
+    {
+      "id": "boa-zelle-paula-2026-08-12",
+      "date": "2026-08-12T04:40:37Z",
+      "issuer": "Bank of America",
+      "subject": "Zelle\u00ae payment of $120.00 to Paula Barifouse Sobral has been sent",
+      "amount": 120.0,
+      "accountLast4": "2880",
+      "namedAs": "mom",
+      "namedDetail": "to paula.barifouse@chubb.com",
+      "unread": false,
+      "kind": "zelle-out"
+    },
+    {
+      "id": "boa-zelle-bugbite-2026-09-18",
+      "date": "2026-09-18T08:58:16Z",
+      "issuer": "Bank of America",
+      "subject": "Zelle\u00ae payment of $600.00 to Bugbite has been sent",
+      "amount": 600.0,
+      "accountLast4": "2880",
+      "namedAs": "ambiguous",
+      "unread": true,
+      "kind": "zelle-out"
+    },
+    {
+      "id": "ally-pay-ok-2026-09-05",
+      "date": "2026-09-05T07:34:21Z",
+      "issuer": "Ally Auto",
+      "subject": "We've received your vehicle payment.",
+      "amount": 220.0,
+      "accountLast4": "1068",
+      "namedAs": "family",
+      "namedDetail": "Mauricio De lacca sobral",
+      "paymentReceived": "2026-09-04",
+      "unread": true,
+      "kind": "payment-success"
+    },
+    {
+      "id": "ally-pay-fail-2026-09-11",
+      "date": "2026-09-11T08:12:19Z",
+      "issuer": "Ally Auto",
+      "subject": "Your vehicle payment to Ally Bank was unsuccessful",
+      "accountLast4": "1068",
+      "namedAs": "family",
+      "namedDetail": "Mauricio \u2014 NSF on funding account for 8/31/2026 scheduled payment",
+      "unread": true,
+      "kind": "payment-returned"
+    },
+    {
+      "id": "ally-snapshot-2026-06-19",
+      "date": "2026-06-19T13:05:29Z",
+      "issuer": "Ally Auto",
+      "subject": "My Ally Update: see what's new.",
+      "amount": 359.16,
+      "dueDate": "2026-06-30",
+      "namedAs": "family",
+      "namedDetail": "Mauricio \u2014 snapshot next payment due",
+      "unread": true,
+      "kind": "payment-due-snapshot"
+    },
+    {
+      "id": "gcp-past-due-2026-09-08",
+      "date": "2026-09-08T20:33:51Z",
+      "issuer": "Google Cloud",
+      "subject": "Action required: your billing account 012109-E31CD0-DB39B9 is past due or has invalid payment information.",
+      "billingAccount": "012109-E31CD0-DB39B9",
+      "namedAs": "pedro",
+      "unread": true,
+      "kind": "past-due",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate-review"
+      ]
+    },
+    {
+      "id": "gcp-suspend-risk-2026-09-08",
+      "date": "2026-09-08T20:33:52Z",
+      "issuer": "Google Cloud",
+      "subject": "Your Project: Gemini Project is at risk of suspension",
+      "namedAs": "pedro",
+      "unread": true,
+      "kind": "suspension-risk",
+      "flags": [
+        "pedro-likely-tech"
+      ]
+    },
+    {
+      "id": "gcp-declined-2026-09-01",
+      "date": "2026-09-01T20:34:30Z",
+      "issuer": "Google Cloud",
+      "subject": "Google Cloud Platform & APIs: Payment was declined for 012109-E31CD0-DB39B9",
+      "accountLast4": "5268",
+      "paymentMethod": "Mastercard ****5268",
+      "namedAs": "ambiguous",
+      "namedDetail": "declined MC ****5268 \u2014 may be shared/mom card; later payments used MC ****0997",
+      "unread": true,
+      "kind": "payment-declined",
+      "flags": [
+        "pedro-likely-tech",
+        "possible-mom-card"
+      ]
+    },
+    {
+      "id": "amex-creditguide-noise",
+      "date": "2026-09-17T13:49:52Z",
+      "issuer": "American Express",
+      "subject": "We've noticed a change in your credit report (MyCredit Guide)",
+      "namedAs": "pedro",
+      "kind": "credit-monitor-not-statement",
+      "note": "MyCredit Guide \u2260 statement. No Amex statement emails found."
+    }
+  ],
+  "recurring": [
+    {
+      "id": "rec-paypal-paula",
+      "merchant": "PayPal (Paula Sobral)",
+      "issuer": "PayPal",
+      "cadence": "monthly",
+      "evidence": "Statement-available emails Apr\u2013Aug 2026 addressed to Paula Sobral on this inbox",
+      "amountKnown": false,
+      "namedAs": "mom",
+      "cancelCandidate": false
+    },
+    {
+      "id": "rec-boa-2880",
+      "merchant": "Bank of America ADV PLUS ****2880",
+      "issuer": "Bank of America",
+      "cadence": "monthly",
+      "evidence": "eStatement available emails Apr\u2013Aug 2026",
+      "amountKnown": false,
+      "namedAs": "ambiguous",
+      "cancelCandidate": false
+    },
+    {
+      "id": "rec-ally-auto",
+      "merchant": "Ally Auto ****1068",
+      "issuer": "Ally Bank",
+      "cadence": "monthly",
+      "evidence": "Billing statements + vehicle payment confirmations; observed payment amount $220.00 (Sep 4); snapshot once showed $359.16 due 6/30",
+      "amountKnown": true,
+      "observedAmounts": [
+        220.0,
+        359.16
+      ],
+      "namedAs": "family",
+      "namedDetail": "Mauricio",
+      "cancelCandidate": false,
+      "risk": "Repeated returned payments (NSF) Jun/Jul/Aug scheduled dates"
+    },
+    {
+      "id": "rec-gcp",
+      "merchant": "Google Cloud / Gemini Project",
+      "issuer": "Google",
+      "cadence": "monthly-ish",
+      "evidence": "Payment receipts May\u2013Sep 2026: $6.71, $1.60, $1.40, $0.94, $23.17",
+      "amountKnown": true,
+      "observedAmounts": [
+        6.71,
+        1.6,
+        1.4,
+        0.94,
+        23.17
+      ],
+      "namedAs": "pedro",
+      "flags": [
+        "pedro-likely-tech"
+      ],
+      "cancelCandidate": true,
+      "cancelEvidence": "Past-due + suspension-risk emails Sep 2026; declined MC ****5268; small recurring cloud spend \u2014 review whether still needed. NO cancel performed."
+    },
+    {
+      "id": "rec-ourpetpolicy",
+      "merchant": "OurPetPolicy",
+      "issuer": "Stripe",
+      "cadence": "unknown (single receipt seen)",
+      "evidence": "Stripe receipt Aug 29 2026 \u2014 Pet application subscription $28.00, card ****2137",
+      "amountKnown": true,
+      "observedAmounts": [
+        28.0
+      ],
+      "namedAs": "ambiguous",
+      "cancelCandidate": true,
+      "cancelEvidence": "Labeled subscription in receipt; only one email in scan window \u2014 verify if still active. NO cancel performed."
+    },
+    {
+      "id": "rec-citi-godaddy",
+      "merchant": "GoDaddy",
+      "issuer": "Citi ****0183 (Paula)",
+      "cadence": "monthly-ish (seen this statement)",
+      "observedAmounts": [
+        19.98,
+        9.99,
+        181.38,
+        226.35,
+        28.19,
+        23.19,
+        23.19,
+        19.98
+      ],
+      "amountKnown": true,
+      "namedAs": "pedro",
+      "flags": [
+        "pedro-likely-tech",
+        "on-mom-card"
+      ],
+      "cancelCandidate": true,
+      "cancelEvidence": "$532.25 this billing cycle on Paula Citi. WAITING_PEDRO_OK.",
+      "cancelPerformed": false
+    },
+    {
+      "id": "rec-citi-vercel",
+      "merchant": "Vercel",
+      "issuer": "Citi ****0183 (Paula)",
+      "cadence": "monthly-ish (seen this statement)",
+      "observedAmounts": [
+        45.38,
+        147.91,
+        60.0,
+        75.0
+      ],
+      "amountKnown": true,
+      "namedAs": "pedro",
+      "flags": [
+        "pedro-likely-tech",
+        "on-mom-card"
+      ],
+      "cancelCandidate": true,
+      "cancelEvidence": "$328.29 this billing cycle on Paula Citi. WAITING_PEDRO_OK.",
+      "cancelPerformed": false
+    },
+    {
+      "id": "rec-citi-cursor",
+      "merchant": "Cursor",
+      "issuer": "Citi ****0183 (Paula)",
+      "cadence": "monthly-ish (seen this statement)",
+      "observedAmounts": [
+        60.0,
+        200.0
+      ],
+      "amountKnown": true,
+      "namedAs": "pedro",
+      "flags": [
+        "pedro-likely-tech",
+        "on-mom-card"
+      ],
+      "cancelCandidate": true,
+      "cancelEvidence": "$260.0 this billing cycle on Paula Citi. WAITING_PEDRO_OK.",
+      "cancelPerformed": false
+    },
+    {
+      "id": "rec-citi-applecom/bill",
+      "merchant": "Apple.com/bill",
+      "issuer": "Citi ****0183 (Paula)",
+      "cadence": "monthly-ish (seen this statement)",
+      "observedAmounts": [
+        63.97,
+        9.99,
+        20.99,
+        5.27,
+        42.96
+      ],
+      "amountKnown": true,
+      "namedAs": "family-ambiguous",
+      "flags": [
+        "family-apple",
+        "not-all-pedro"
+      ],
+      "cancelCandidate": false,
+      "cancelEvidence": "Pedro: Apple is not all mine \u2014 excluded from Pedro burn",
+      "cancelPerformed": false
+    },
+    {
+      "id": "rec-citi-openai",
+      "merchant": "OpenAI",
+      "issuer": "Citi ****0183 (Paula)",
+      "cadence": "monthly-ish (seen this statement)",
+      "observedAmounts": [
+        10.0
+      ],
+      "amountKnown": true,
+      "namedAs": "pedro",
+      "flags": [
+        "pedro-likely-tech",
+        "on-mom-card"
+      ],
+      "cancelCandidate": true,
+      "cancelEvidence": "$10.0 this billing cycle on Paula Citi. WAITING_PEDRO_OK.",
+      "cancelPerformed": false
+    },
+    {
+      "id": "rec-citi-discord-nitro",
+      "merchant": "Discord Nitro",
+      "issuer": "Citi ****0183 (Paula)",
+      "cadence": "monthly-ish (seen this statement)",
+      "observedAmounts": [
+        9.99
+      ],
+      "amountKnown": true,
+      "namedAs": "pedro",
+      "flags": [
+        "pedro-likely-tech",
+        "on-mom-card"
+      ],
+      "cancelCandidate": true,
+      "cancelEvidence": "$9.99 this billing cycle on Paula Citi. WAITING_PEDRO_OK.",
+      "cancelPerformed": false
+    }
+  ],
+  "techFlags": [
+    {
+      "id": "tech-citi-0183-sep",
+      "merchant": "Pedro tech on mom Citi ****0183",
+      "period": "2026-08-15 to 2026-09-14",
+      "total": 1283.71,
+      "cancelCandidates": [
+        {
+          "merchant": "GoDaddy",
+          "periodTotal": 532.25,
+          "charges": [
+            19.98,
+            9.99,
+            181.38,
+            226.35,
+            28.19,
+            23.19,
+            23.19,
+            19.98
+          ],
+          "dates": [
+            "08/15",
+            "08/22",
+            "08/22",
+            "08/22",
+            "08/23",
+            "09/05",
+            "09/06",
+            "09/07"
+          ],
+          "whyPedro": "tech/dev/SaaS on mom Citi ****0183 this cycle",
+          "cancelPlaybook": {
+            "inbox": "luccasobral6@gmail.com",
+            "steps": [
+              "Sign in godaddy.com \u2192 My Products",
+              "List domains/hosting renewing \u2014 turn off auto-renew on junk domains",
+              "Large Aug 22 charges ($181+$226) look like renewals/bundles \u2014 audit before cancel"
+            ]
+          },
+          "status": "WAITING_PEDRO_OK",
+          "cancelPerformed": false
+        },
+        {
+          "merchant": "Vercel",
+          "periodTotal": 328.29,
+          "charges": [
+            45.38,
+            147.91,
+            60.0,
+            75.0
+          ],
+          "dates": [
+            "09/06",
+            "09/10",
+            "09/12",
+            "09/13"
+          ],
+          "whyPedro": "tech/dev/SaaS on mom Citi ****0183 this cycle",
+          "cancelPlaybook": {
+            "inbox": "luccasobral6@gmail.com or pedro@versatility.com",
+            "steps": [
+              "Sign in vercel.com \u2192 Settings \u2192 Billing",
+              "Cancel Pro / remove Neon & Supabase marketplace addons if unused",
+              "Delete idle projects to stop usage overages"
+            ]
+          },
+          "status": "WAITING_PEDRO_OK",
+          "cancelPerformed": false
+        },
+        {
+          "merchant": "Cursor",
+          "periodTotal": 260.0,
+          "charges": [
+            60.0,
+            200.0
+          ],
+          "dates": [
+            "09/04",
+            "09/04"
+          ],
+          "whyPedro": "tech/dev/SaaS on mom Citi ****0183 this cycle",
+          "cancelPlaybook": {
+            "inbox": "luccasobral6@gmail.com (search cursor.sh / cursor.com receipts)",
+            "steps": [
+              "Sign in at https://cursor.com/settings or https://www.cursor.com/settings",
+              "Billing / Subscription \u2192 cancel or downgrade Pro/Ultra",
+              "Confirm no duplicate seats ($60 + $200 on same day = likely two plans/seats)"
+            ]
+          },
+          "status": "WAITING_PEDRO_OK",
+          "cancelPerformed": false
+        },
+        {
+          "merchant": "Apple.com/bill",
+          "periodTotal": 143.18,
+          "charges": [
+            63.97,
+            9.99,
+            20.99,
+            5.27,
+            42.96
+          ],
+          "dates": [
+            "08/17",
+            "08/26",
+            "09/04",
+            "09/08",
+            "09/10"
+          ],
+          "whyPedro": "tech/dev/SaaS on mom Citi ****0183 this cycle",
+          "cancelPlaybook": {
+            "inbox": "luccasobral6@gmail.com (Apple receipt mail)",
+            "steps": [
+              "iPhone Settings \u2192 Apple ID \u2192 Subscriptions (or reportaproblem.apple.com)",
+              "Cancel unused Apple/iCloud/app subs \u2014 amounts vary so audit first"
+            ]
+          },
+          "status": "WAITING_PEDRO_OK",
+          "cancelPerformed": false
+        },
+        {
+          "merchant": "OpenAI",
+          "periodTotal": 10.0,
+          "charges": [
+            10.0
+          ],
+          "dates": [
+            "09/13"
+          ],
+          "whyPedro": "tech/dev/SaaS on mom Citi ****0183 this cycle",
+          "cancelPlaybook": {
+            "inbox": "luccasobral6@gmail.com",
+            "steps": [
+              "platform.openai.com or chatgpt.com \u2192 Settings \u2192 Billing",
+              "Cancel Plus/API auto-recharge if unused"
+            ]
+          },
+          "status": "WAITING_PEDRO_OK",
+          "cancelPerformed": false
+        },
+        {
+          "merchant": "Discord Nitro",
+          "periodTotal": 9.99,
+          "charges": [
+            9.99
+          ],
+          "dates": [
+            "09/07"
+          ],
+          "whyPedro": "tech/dev/SaaS on mom Citi ****0183 this cycle",
+          "cancelPlaybook": {
+            "inbox": "luccasobral6@gmail.com",
+            "steps": [
+              "Discord app \u2192 User Settings \u2192 Nitro \u2192 Cancel",
+              "Or discord.com/store subscriptions"
+            ]
+          },
+          "status": "WAITING_PEDRO_OK",
+          "cancelPerformed": false
+        }
+      ],
+      "pedroLikelyTech": true,
+      "cancelPerformed": false,
+      "note": "Pedro burn excludes Apple per user correction",
+      "correctedAvg": 271.79,
+      "correctedTotal": 2446.13
+    },
+    {
+      "id": "tech-gcp-payments",
+      "merchant": "Google Cloud Platform & APIs",
+      "severityProfileId": "8751-2801-5582",
+      "billingAccount": "012109-E31CD0-DB39B9",
+      "payments": [
+        {
+          "date": "2026-09-08",
+          "amount": 23.17,
+          "method": "Mastercard ****0997",
+          "paymentId": "CLOUD FG2MKS"
+        },
+        {
+          "date": "2026-08-01",
+          "amount": 0.94,
+          "method": "Mastercard \u2022\u2022\u2022\u2022",
+          "paymentId": "CLOUD JT7LMX"
+        },
+        {
+          "date": "2026-07-01",
+          "amount": 1.4,
+          "method": "Mastercard \u2022\u2022\u2022\u2022",
+          "paymentId": "CLOUD H4JVwR"
+        },
+        {
+          "date": "2026-06-01",
+          "amount": 1.6,
+          "method": "Mastercard \u2022\u2022\u2022\u2022",
+          "paymentId": "CLOUD 5X6RGV"
+        },
+        {
+          "date": "2026-05-01",
+          "amount": 6.71,
+          "method": "Mastercard \u2022\u2022\u2022\u2022",
+          "paymentId": "CLOUD DFWRCP"
+        }
+      ],
+      "risks": [
+        "past due Sep 2026",
+        "Gemini Project suspension risk",
+        "declined MC ****5268 on Sep 1"
+      ],
+      "namedAs": "pedro",
+      "pedroLikelyTech": true,
+      "cancelCandidate": true,
+      "cancelPerformed": false
+    },
+    {
+      "id": "tech-lambda-amex-2025",
+      "merchant": "LAMBDA CLOUD",
+      "evidence": "Amex SafeKey verification Jan 2025 for $10.00 at LAMBDA CLOUD on Pedro Amex ****37026",
+      "namedAs": "pedro",
+      "pedroLikelyTech": true,
+      "note": "OTP only \u2014 not a statement; older than primary scan window"
+    },
+    {
+      "id": "tech-saas-absent",
+      "merchant": "openai / anthropic / cursor / github / vercel / notion / adobe / spotify / netflix",
+      "evidence": "No receipt/invoice/subscription threads from these senders in newer_than:1y on this inbox",
+      "pedroLikelyTech": false,
+      "note": "Absence on personal inbox \u2260 absence elsewhere"
+    }
+  ],
+  "gaps": [
+    "Citi ****0183: only Sep 2026 PDF attached so far \u2014 no earlier months yet for trend.",
+    "PayPal Paula statements are notification-only \u2014 no amounts or line items in email body; must log into PayPal to see spend.",
+    "BoA ADV PLUS ****2880 eStatements are notification-only \u2014 no amounts in email.",
+    "Ally Auto statements are notification-only; payment emails give amounts ($220 observed) but not full statement line items.",
+    "No American Express statement/billing emails found \u2014 only MyCredit Guide, SafeKey OTP, Apple Pay remove, card arrival. Amex totals unknown from inbox.",
+    "Capital One QuicksilverOne: approval/benefits emails only; no Quicksilver statement yet in scan.",
+    "No Brazilian bank (Nubank / Ita\u00fa / Bradesco) billing found on this inbox.",
+    "OpenAI / Anthropic / Cursor / GitHub / Vercel / Notion / Adobe / Spotify / Netflix: zero billing receipts newer_than:1y on luccasobral6.",
+    "Mastercard ****5268 (GCP decline) vs ****0997 (successful GCP pay) \u2014 which card is mom's vs Pedro's cannot be confirmed from email alone.",
+    "Cap One secondary invite from Jennifer Margaret Bogus (360 Checking ****9095) is not Paula \u2014 excluded from mom scope.",
+    "NBI / Chubb 'Statement - NBI' threads are insurance claim ops for Pedro's care, not card statements \u2014 not modeled as billing statements.",
+    "Boring Company / wormhole / work floor ops intentionally excluded from all queries and results."
+  ],
+  "summary": {
+    "statementCount": 18,
+    "notificationCount": 15,
+    "recurringCount": 5,
+    "techFlagCount": 3,
+    "gapCount": 12,
+    "dateRange": {
+      "earliest": "2024-10-12",
+      "latest": "2026-09-18",
+      "primaryScan": "2025-09 \u2192 2026-09 (newer_than ~1\u20132y)"
+    },
+    "issuersSeen": [
+      "PayPal",
+      "Capital One",
+      "Bank of America",
+      "Ally Auto",
+      "Google Cloud",
+      "American Express",
+      "Stripe/OurPetPolicy",
+      "Citi"
+    ],
+    "momNamed": [
+      "PayPal Paula Sobral statements",
+      "BoA Zelle $120 to Paula Barifouse Sobral",
+      "Citi AAdvantage ****0183 Paula Barifouse"
+    ],
+    "pedroNamed": [
+      "Cap One Platinum ****2484",
+      "Cap One new cards",
+      "Amex ****37026",
+      "Google Cloud"
+    ],
+    "familyNamed": [
+      "Ally Auto Mauricio ****1068"
+    ],
+    "cancelsPerformed": 0
+  },
+  "extratosAudit": {
+    "file": "data/audit-extratos-2026.json",
+    "cardMonths": 9,
+    "checkingMonths": 8,
+    "pedroTechAvgPerMonth": 566.54,
+    "pedroTechTotal": 5098.84,
+    "cancelCandidates": 6,
+    "cancelPerformed": false
+  },
+  "pedroBurnCorrected": {
+    "excluded": [
+      "Apple.com/bill"
+    ],
+    "reason": "User said Apple is not all his (2026-09-18)",
+    "monthly": [
+      {
+        "month": "2026-01",
+        "pedroTechExApple": 238.7,
+        "appleFamilyAmbiguous": 0,
+        "oldPedroTechInclApple": 238.7
+      },
+      {
+        "month": "2026-02",
+        "pedroTechExApple": 63.14,
+        "appleFamilyAmbiguous": 0,
+        "oldPedroTechInclApple": 63.14
+      },
+      {
+        "month": "2026-03",
+        "pedroTechExApple": 49.95,
+        "appleFamilyAmbiguous": 222.81,
+        "oldPedroTechInclApple": 272.76
+      },
+      {
+        "month": "2026-04",
+        "pedroTechExApple": 95.33,
+        "appleFamilyAmbiguous": 707.74,
+        "oldPedroTechInclApple": 803.07
+      },
+      {
+        "month": "2026-05",
+        "pedroTechExApple": 108.13,
+        "appleFamilyAmbiguous": 439.59,
+        "oldPedroTechInclApple": 547.72
+      },
+      {
+        "month": "2026-06",
+        "pedroTechExApple": 49.95,
+        "appleFamilyAmbiguous": 401.66,
+        "oldPedroTechInclApple": 451.61
+      },
+      {
+        "month": "2026-07",
+        "pedroTechExApple": 173.82,
+        "appleFamilyAmbiguous": 557.6,
+        "oldPedroTechInclApple": 731.42
+      },
+      {
+        "month": "2026-08",
+        "pedroTechExApple": 526.58,
+        "appleFamilyAmbiguous": 180.13,
+        "oldPedroTechInclApple": 706.71
+      },
+      {
+        "month": "2026-09",
+        "pedroTechExApple": 1140.53,
+        "appleFamilyAmbiguous": 143.18,
+        "oldPedroTechInclApple": 1283.71
+      }
+    ],
+    "totalAcrossAudit": 2446.13,
+    "avgPerMonth": 271.79,
+    "merchantsCounted": [
+      "GoDaddy",
+      "Vercel",
+      "Cursor",
+      "OpenAI",
+      "Discord Nitro"
+    ],
+    "appleParkedTotal": 2652.71
+  },
+  "lastUpdated": "2026-09-18T13:21:28.709634+00:00",
+  "xCorpPaidFeatures": {
+    "periodTotal": 232.0,
+    "chargeCount": 15,
+    "runRateMonthlyEst": 52,
+    "status": "WAITING_PEDRO_OK",
+    "note": "Added from ai-tools digest; multi-tier/multi-account hypothesis"
+  },
+  "subDigest": {
+    "aiToolsReady": true,
+    "path": "/workspace/momcard/data/sub-digest/",
+    "masterReduce": "/workspace/momcard/data/sub-digest/MASTER-reduce.json"
+  },
+  "vercelSpike": {
+    "aug": 345.69,
+    "sep": 328.29,
+    "total": 673.98,
+    "team": "Versatly Holdings Pro",
+    "status": "WAITING_PEDRO_OK"
+  },
+  "railwayOffcard": {
+    "sepReceipt": 120.75,
+    "card": "****3366",
+    "status": "WAITING_PEDRO_OK"
+  }
+}

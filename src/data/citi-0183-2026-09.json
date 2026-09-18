@@ -1,0 +1,2464 @@
+{
+  "summary": {
+    "last4": "0183",
+    "name": "PAULA BARIFOUSE",
+    "product": "Citi AAdvantage Executive Mastercard",
+    "period": "08/15/26-09/14/26",
+    "purchases": 12654.99,
+    "newBalance": 19156.12,
+    "interest": 279.8,
+    "minPayment": 471.8,
+    "due": "10/10/26",
+    "payments": -500.0,
+    "credits": -67.37,
+    "previousBalance": 6788.7
+  },
+  "parsedCount": 224,
+  "parsedSum": 12621.39,
+  "byCategory": {
+    "other": 5914.66,
+    "pedro-tech-saas": 1283.71,
+    "pedro-work-onsite": 175.16,
+    "bastrop-local": 1411.03,
+    "fl-household": 3746.43,
+    "travel": 90.4
+  },
+  "pedroTechTotal": 1283.71,
+  "pedroWorkOnsiteTotal": 175.16,
+  "transactions": [
+    {
+      "transDate": "08/14",
+      "postDate": "08/15",
+      "description": "Nyx*NAYAX VENDING 19 HUNT VALLEY MD",
+      "amount": 7.8,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/14",
+      "postDate": "08/15",
+      "description": "GODADDY#7026605378 TEMPE AZ",
+      "amount": 19.98,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "08/15",
+      "postDate": "08/15",
+      "description": "SQ *BORING BODEGA Bastrop TX",
+      "amount": 11.96,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/15",
+      "postDate": "08/15",
+      "description": "STARBUCKS 8007827282 SEATTLE WA",
+      "amount": 20.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/15",
+      "postDate": "08/15",
+      "description": "SQ *BORING BODEGA Bastrop TX",
+      "amount": 34.49,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/15",
+      "postDate": "08/15",
+      "description": "STARBUCKS STORE 11698 BASTROP TX",
+      "amount": 2.42,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/15",
+      "postDate": "08/15",
+      "description": "Nyx*NAYAX VENDING 19 HUNT VALLEY MD",
+      "amount": 6.73,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/15",
+      "postDate": "08/15",
+      "description": "NESPRESSO USA INC Wilmington DE",
+      "amount": 153.9,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/15",
+      "postDate": "08/15",
+      "description": "VIATOUCH MEDIA SAN DIEGO CA",
+      "amount": 2.88,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/15",
+      "postDate": "08/15",
+      "description": "IC* INSTACART*159 8882467822 CA",
+      "amount": 186.61,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/16",
+      "postDate": "08/16",
+      "description": "Maxines Cafe Bastrop TX",
+      "amount": 60.97,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/16",
+      "postDate": "08/16",
+      "description": "VIATOUCH MEDIA SAN DIEGO CA",
+      "amount": 2.88,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/16",
+      "postDate": "08/16",
+      "description": "STARBUCKS 06368 AUSTIN TX",
+      "amount": 14.39,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/16",
+      "postDate": "08/16",
+      "description": "SUBWAY 64311 WESTON FL",
+      "amount": 12.39,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/16",
+      "postDate": "08/16",
+      "description": "FIRST WATCH #7738 BASTROP TX",
+      "amount": 59.98,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/16",
+      "postDate": "08/16",
+      "description": "JACK IN THE BOX 4812 BASTROP TX",
+      "amount": 16.82,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/17",
+      "postDate": "08/17",
+      "description": "TST* TXR47 - MARKET - BASTROP TX",
+      "amount": 4.0,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/17",
+      "postDate": "08/17",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 63.97,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "08/17",
+      "postDate": "08/17",
+      "description": "SQ *THE BORING COMPANY Bastrop TX",
+      "amount": 6.0,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/17",
+      "postDate": "08/17",
+      "description": "SQ *BORING BODEGA Bastrop TX",
+      "amount": 34.22,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/18",
+      "postDate": "08/18",
+      "description": "CVS/PHARMACY #03609 WESTON FL",
+      "amount": 18.7,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/18",
+      "postDate": "08/18",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 26.28,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/18",
+      "postDate": "08/18",
+      "description": "LIFEWAVE 2 AUTOSHIP SAN DIEGO CA",
+      "amount": 113.48,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/18",
+      "postDate": "08/18",
+      "description": "SQ *BORING BODEGA Bastrop TX",
+      "amount": 3.79,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/18",
+      "postDate": "08/18",
+      "description": "SQ *BORING BODEGA Bastrop TX",
+      "amount": 14.95,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/18",
+      "postDate": "08/18",
+      "description": "REMEMBR WESTON FL",
+      "amount": 70.55,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/19",
+      "postDate": "08/19",
+      "description": "TST* TXR47 - MARKET - BASTROP TX",
+      "amount": 4.0,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/19",
+      "postDate": "08/19",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 47.47,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/20",
+      "postDate": "08/20",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 12.55,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/20",
+      "postDate": "08/20",
+      "description": "H-E-B #582 BASTROP TX",
+      "amount": 73.41,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/20",
+      "postDate": "08/20",
+      "description": "SQ *BORING BODEGA Bastrop TX",
+      "amount": 4.33,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/20",
+      "postDate": "08/20",
+      "description": "SQ *THE BORING COMPANY Bastrop TX",
+      "amount": 6.0,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/20",
+      "postDate": "08/20",
+      "description": "SUBWAY 64311 WESTON FL",
+      "amount": 10.19,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/21",
+      "postDate": "08/21",
+      "description": "DD *STARBUCKS SAN FRANCISCO CA",
+      "amount": 34.85,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/21",
+      "postDate": "08/21",
+      "description": "IC* INSTACART*159 LAKELAND FL",
+      "amount": 33.65,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/21",
+      "postDate": "08/21",
+      "description": "TARGET T-0815 SUNRISE FL",
+      "amount": 153.53,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/21",
+      "postDate": "08/21",
+      "description": "IC* INSTACART*159 LAKELAND FL",
+      "amount": 306.22,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/21",
+      "postDate": "08/21",
+      "description": "SQ *BORING BODEGA Bastrop TX",
+      "amount": 2.94,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/21",
+      "postDate": "08/21",
+      "description": "SUBWAY 64311 WESTON FL",
+      "amount": 19.76,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/21",
+      "postDate": "08/21",
+      "description": "SQ *SI BABY BBQ HYPERL Bastrop TX",
+      "amount": 28.22,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/21",
+      "postDate": "08/21",
+      "description": "CIRCLEK #2741595 BASTROP TX",
+      "amount": 42.94,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/22",
+      "postDate": "08/22",
+      "description": "GODADDY#7027570501 TEMPE AZ",
+      "amount": 9.99,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "08/22",
+      "postDate": "08/22",
+      "description": "WENDY'S 109 BASTROP TX",
+      "amount": 11.02,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/22",
+      "postDate": "08/22",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 34.47,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/22",
+      "postDate": "08/22",
+      "description": "H-E-B #582 BASTROP TX",
+      "amount": 35.26,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/22",
+      "postDate": "08/22",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 55.77,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/22",
+      "postDate": "08/22",
+      "description": "GODADDY#4169026930 TEMPE AZ",
+      "amount": 181.38,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "08/22",
+      "postDate": "08/22",
+      "description": "GODADDY#4169028231 TEMPE AZ",
+      "amount": 226.35,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "08/22",
+      "postDate": "08/22",
+      "description": "REMEMBR WESTON FL",
+      "amount": 11.25,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/22",
+      "postDate": "08/22",
+      "description": "CSC SERVICEWORKS ULTRA PLAINVIEW NY",
+      "amount": 3.5,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/22",
+      "postDate": "08/22",
+      "description": "CSC SERVICEWORKS ULTRA PLAINVIEW NY",
+      "amount": 3.5,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/23",
+      "postDate": "08/23",
+      "description": "TST* TXR47 - MARKET - BASTROP TX",
+      "amount": 4.0,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/23",
+      "postDate": "08/23",
+      "description": "TST* TXR47 - MARKET - BASTROP TX",
+      "amount": 7.5,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/23",
+      "postDate": "08/23",
+      "description": "GODADDY#4169759904 TEMPE AZ",
+      "amount": 28.19,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "08/23",
+      "postDate": "08/23",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 43.51,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/23",
+      "postDate": "08/23",
+      "description": "REMEMBR WESTON FL",
+      "amount": 2.68,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/24",
+      "postDate": "08/24",
+      "description": "TST* TXR47 - MARKET - BASTROP TX",
+      "amount": 3.5,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/24",
+      "postDate": "08/24",
+      "description": "TST* TXR47 - MARKET - BASTROP TX",
+      "amount": 3.5,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/24",
+      "postDate": "08/24",
+      "description": "TST* TXR47 - MARKET - BASTROP TX",
+      "amount": 7.0,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/24",
+      "postDate": "08/24",
+      "description": "DD *STARBUCKS SAN FRANCISCO CA",
+      "amount": 18.43,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/24",
+      "postDate": "08/24",
+      "description": "IC* INSTACART*159 LAKELAND FL",
+      "amount": 142.12,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/24",
+      "postDate": "08/24",
+      "description": "SQ *BORING BODEGA Bastrop TX",
+      "amount": 8.01,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/24",
+      "postDate": "08/24",
+      "description": "CHICK-FIL-A #03100 BASTROP TX",
+      "amount": 13.46,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/25",
+      "postDate": "08/25",
+      "description": "SP THE BORING CO HAWTHORNE CA",
+      "amount": 25.62,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/25",
+      "postDate": "08/25",
+      "description": "STARBUCKS 8007827282 SEATTLE WA",
+      "amount": 15.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/25",
+      "postDate": "08/25",
+      "description": "SQ *THE BORING COMPANY Bastrop TX",
+      "amount": 6.0,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/25",
+      "postDate": "08/25",
+      "description": "SQ *THE BORING COMPANY Bastrop TX",
+      "amount": 6.0,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/26",
+      "postDate": "08/26",
+      "description": "SUBWAY 64311 WESTON FL",
+      "amount": 8.83,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/26",
+      "postDate": "08/26",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 9.99,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "08/26",
+      "postDate": "08/26",
+      "description": "STARBUCKS 8007827282 SEATTLE WA",
+      "amount": 10.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/26",
+      "postDate": "08/26",
+      "description": "CHICK-FIL-A #03100 BASTROP TX",
+      "amount": 12.26,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/27",
+      "postDate": "08/27",
+      "description": "DD *STARBUCKS SAN FRANCISCO CA",
+      "amount": 21.15,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/27",
+      "postDate": "08/27",
+      "description": "WALGREENS #2193 DAVIE FL",
+      "amount": 68.8,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/27",
+      "postDate": "08/27",
+      "description": "SQ *BORING BODEGA Bastrop TX",
+      "amount": 5.14,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/27",
+      "postDate": "08/27",
+      "description": "SUBWAY 64311 WESTON FL",
+      "amount": 12.52,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/28",
+      "postDate": "08/28",
+      "description": "SP GOPURE BEAUTY THOUSAND OAKS CA",
+      "amount": 41.71,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/28",
+      "postDate": "08/28",
+      "description": "IC* INSTACART*159 LAKELAND FL",
+      "amount": 8.48,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/28",
+      "postDate": "08/28",
+      "description": "CVS/PHARMACY #03609 WESTON FL",
+      "amount": 36.7,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/28",
+      "postDate": "08/28",
+      "description": "IC* INSTACART*159 LAKELAND FL",
+      "amount": 127.22,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/28",
+      "postDate": "08/28",
+      "description": "REMEMBR WESTON FL",
+      "amount": 10.35,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/28",
+      "postDate": "08/28",
+      "description": "REMEMBR WESTON FL",
+      "amount": 19.59,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/28",
+      "postDate": "08/28",
+      "description": "SP GOPURE BEAUTY THOUSAND OAKS CA",
+      "amount": 41.71,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/29",
+      "postDate": "08/29",
+      "description": "CHICK-FIL-A #03100 BASTROP TX",
+      "amount": 15.69,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/30",
+      "postDate": "08/30",
+      "description": "TST* TXR47 - MARKET - BASTROP TX",
+      "amount": 7.0,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/30",
+      "postDate": "08/30",
+      "description": "STARBUCKS 8007827282 SEATTLE WA",
+      "amount": 10.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/31",
+      "postDate": "08/31",
+      "description": "STARBUCKS 8007827282 SEATTLE WA",
+      "amount": 10.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/31",
+      "postDate": "08/31",
+      "description": "STARBUCKS STORE 11698 BASTROP TX",
+      "amount": 4.36,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/01",
+      "postDate": "09/01",
+      "description": "SQ *THE BORING COMPANY Bastrop TX",
+      "amount": 3.25,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/01",
+      "postDate": "09/01",
+      "description": "AUTOSPARK Miami FL",
+      "amount": 44.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/01",
+      "postDate": "09/01",
+      "description": "SQ *THE BORING COMPANY Bastrop TX",
+      "amount": 5.0,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/02",
+      "postDate": "09/02",
+      "description": "STARBUCKS 8007827282 SEATTLE WA",
+      "amount": 25.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/02",
+      "postDate": "09/02",
+      "description": "ALLIANZ TRAVEL INS 8006285404 VA",
+      "amount": 28.0,
+      "extra": [],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/02",
+      "postDate": "09/02",
+      "description": "ALEX PREMIER MOTORS POMPANO BEACH FL",
+      "amount": 1172.71,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/02",
+      "postDate": "09/02",
+      "description": "CIRCLEK #2741595 BASTROP TX",
+      "amount": 5.32,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/02",
+      "postDate": "09/02",
+      "description": "AMERICAN0012373957477 United States AZ",
+      "amount": 5.6,
+      "extra": [
+        "NAME: SOBRAL/PEDRO",
+        "DEPART: 09/08/26",
+        "AUS TO MIA : AA: CLASS: Y : STOP:O"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/02",
+      "postDate": "09/02",
+      "description": "SQ *THE BORING COMPANY Bastrop TX",
+      "amount": 6.0,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/02",
+      "postDate": "09/02",
+      "description": "ALLIANZ TRAVEL INS 8006285404 VA",
+      "amount": 28.0,
+      "extra": [],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/02",
+      "postDate": "09/02",
+      "description": "EMERSON CRISTIANO HA NORTH MIAMI B FL",
+      "amount": 120.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/02",
+      "postDate": "09/02",
+      "description": "AMERICAN0010655415099 United States AZ",
+      "amount": 12.0,
+      "extra": [
+        "NAME: DE LUCCA SOBRAL",
+        "DEPART: 09/08/26",
+        "AUS TO MIA : AA: CLASS: Y : STOP:O"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/02",
+      "postDate": "09/02",
+      "description": "CIRCLEK #2741595 BASTROP TX",
+      "amount": 45.01,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/02",
+      "postDate": "09/02",
+      "description": "AMERICAN0012373927208 United States AZ",
+      "amount": 5.6,
+      "extra": [
+        "NAME: DE LUCCA SOBRAL",
+        "DEPART: 09/08/26",
+        "AUS TO MIA : AA: CLASS: Y : STOP:O"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/03",
+      "postDate": "09/03",
+      "description": "STARBUCKS 8007827282 SEATTLE WA",
+      "amount": 25.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/03",
+      "postDate": "09/03",
+      "description": "BALUARTE NO MUNDO CAMPINA GRAND BRA",
+      "amount": 25.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/03",
+      "postDate": "09/03",
+      "description": "TEMU.COM 8884958368 MA",
+      "amount": 7.75,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/03",
+      "postDate": "09/03",
+      "description": "CHIPOTLE 4329 BASTROP TX",
+      "amount": 14.94,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/03",
+      "postDate": "09/03",
+      "description": "TEMU.COM 8884958368 MA",
+      "amount": 18.38,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/03",
+      "postDate": "09/03",
+      "description": "TEMU.COM 8884958368 MA",
+      "amount": 19.83,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/03",
+      "postDate": "09/03",
+      "description": "TEMU.COM 8884958368 MA",
+      "amount": 35.69,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/03",
+      "postDate": "09/03",
+      "description": "EAST COAST VALET PARKI FORT LAUDERDA FL",
+      "amount": 7.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/03",
+      "postDate": "09/03",
+      "description": "STARBUCKS STORE 11698 BASTROP TX",
+      "amount": 3.09,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/04",
+      "postDate": "09/04",
+      "description": "CURSOR, AI POWERED IDE SAN FRANCISCO CA",
+      "amount": 60.0,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Cursor"
+    },
+    {
+      "transDate": "09/04",
+      "postDate": "09/04",
+      "description": "CURSOR, AI POWERED IDE SAN FRANCISCO CA",
+      "amount": 200.0,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Cursor"
+    },
+    {
+      "transDate": "09/04",
+      "postDate": "09/04",
+      "description": "STARBUCKS 8007827282 SEATTLE WA",
+      "amount": 25.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/04",
+      "postDate": "09/04",
+      "description": "LA FITNESS IRVINE CA",
+      "amount": 42.79,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/04",
+      "postDate": "09/04",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 20.99,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "09/05",
+      "postDate": "09/05",
+      "description": "GODADDY#7030031735 TEMPE AZ",
+      "amount": 23.19,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "09/05",
+      "postDate": "09/05",
+      "description": "CVS/PHARMACY #03609 WESTON FL",
+      "amount": 33.2,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/05",
+      "postDate": "09/05",
+      "description": "CHICK-FIL-A #03100 BASTROP TX",
+      "amount": 12.5,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/06",
+      "postDate": "09/06",
+      "description": "STARBUCKS 8007827282 SEATTLE WA",
+      "amount": 25.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/06",
+      "postDate": "09/06",
+      "description": "GODADDY#7030266672 TEMPE AZ",
+      "amount": 23.19,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "09/06",
+      "postDate": "09/06",
+      "description": "VERCEL MKT NEON COVINA CA",
+      "amount": 45.38,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Vercel"
+    },
+    {
+      "transDate": "09/06",
+      "postDate": "09/06",
+      "description": "AMERICAN0012374933955 United States AZ",
+      "amount": 5.6,
+      "extra": [
+        "NAME: SOBRAL/PEDRO",
+        "DEPART: 09/10/26",
+        "MIA TO AUS : AA: CLASS: Y : STOP:O"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/06",
+      "postDate": "09/06",
+      "description": "AMERICAN0012374933956 United States AZ",
+      "amount": 5.6,
+      "extra": [
+        "NAME: BOGUS/JENNIFER",
+        "DEPART: 09/10/26",
+        "MIA TO AUS : AA: CLASS: Y : STOP:O"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/07",
+      "postDate": "09/07",
+      "description": "TST* TXR47 - MARKET - BASTROP TX",
+      "amount": 6.5,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/07",
+      "postDate": "09/07",
+      "description": "DISCORD* NITROMONTHLY SAN FRANCISCO CA",
+      "amount": 9.99,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Discord Nitro"
+    },
+    {
+      "transDate": "09/07",
+      "postDate": "09/07",
+      "description": "WALGREENS #15672 AUSTIN TX",
+      "amount": 14.06,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/07",
+      "postDate": "09/07",
+      "description": "GODADDY#7030363583 TEMPE AZ",
+      "amount": 19.98,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "09/07",
+      "postDate": "09/07",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 22.17,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/07",
+      "postDate": "09/07",
+      "description": "WALGREENS #15672 AUSTIN TX",
+      "amount": 50.87,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/07",
+      "postDate": "09/07",
+      "description": "REMEMBR WESTON FL",
+      "amount": 39.76,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/07",
+      "postDate": "09/07",
+      "description": "CHICK-FIL-A #01805 AUSTIN TX",
+      "amount": 7.01,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/07",
+      "postDate": "09/07",
+      "description": "THE HOME DEPOT #6326 DAVIE FL",
+      "amount": 184.83,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "TESLA, INC. Austin TX",
+      "amount": 11.45,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "TESLA, INC. Austin TX",
+      "amount": 16.96,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "TESLA, INC. Austin TX",
+      "amount": 17.4,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 12.84,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "ROBERTS SPACE IND LLC BEE CAVE TX",
+      "amount": 20.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "AUS BARTON SPRINGS 88 Austin TX",
+      "amount": 34.63,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "NESPRESSO USA INC Wilmington DE",
+      "amount": 73.17,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 5.27,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "REMEMBR WESTON FL",
+      "amount": 25.57,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "UBER *EATS 8005928996 CA",
+      "amount": 110.17,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "FLANIGANS #95 WESTON WESTON FL",
+      "amount": 72.94,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "AUS AIRP ANNIES CAFE AUSTIN TX",
+      "amount": 1.66,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "AUS AIRP EINSTEIN BRO AUSTIN TX",
+      "amount": 12.43,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "AUS AIRP ANNIES CAFE AUSTIN TX",
+      "amount": 14.93,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "AUS AIRP ANNIES CAFE AUSTIN TX",
+      "amount": 31.03,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/09",
+      "postDate": "09/09",
+      "description": "ELEVENLABS.IO NEW YORK NY",
+      "amount": 22.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/10",
+      "postDate": "09/10",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 42.96,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "09/10",
+      "postDate": "09/10",
+      "description": "VERCEL INC. COVINA CA",
+      "amount": 147.91,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Vercel"
+    },
+    {
+      "transDate": "09/11",
+      "postDate": "09/11",
+      "description": "IC* INSTACART*159 8882467822 CA",
+      "amount": 163.98,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/11",
+      "postDate": "09/11",
+      "description": "IC* INSTACART*159 8882467822 CA",
+      "amount": 15.32,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/11",
+      "postDate": "09/11",
+      "description": "IC* INSTACART 8882467822 CA",
+      "amount": 47.4,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "VERCEL INC. COVINA CA",
+      "amount": 60.0,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Vercel"
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "IC* INSTACART*159 SAN FRANCISCO CA",
+      "amount": 2.36,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "SP ECHOMENT TUEN MUN HKG",
+      "amount": 55.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "IC* INSTACART*159 SAN FRANCISCO CA",
+      "amount": 134.5,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "TEMU.COM 8884958368 MA",
+      "amount": 7.01,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "TEMU.COM 8884958368 MA",
+      "amount": 7.75,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "TEMU.COM 8884958368 MA",
+      "amount": 12.09,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "TEMU.COM 8884958368 MA",
+      "amount": 12.6,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "TEMU.COM 8884958368 MA",
+      "amount": 12.97,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "TEMU.COM 8884958368 MA",
+      "amount": 13.65,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "TEMU.COM 8884958368 MA",
+      "amount": 15.59,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "TEMU.COM 8884958368 MA",
+      "amount": 17.95,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "TEMU.COM 8884958368 MA",
+      "amount": 34.85,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/13",
+      "postDate": "09/13",
+      "description": "TST* BUDDIES CAFE - WE WESTON FL",
+      "amount": 41.11,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/13",
+      "postDate": "09/13",
+      "description": "VERCEL MKT SUPABASE COVINA CA",
+      "amount": 75.0,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Vercel"
+    },
+    {
+      "transDate": "09/13",
+      "postDate": "09/13",
+      "description": "CVS/PHARMACY #03609 WESTON FL",
+      "amount": 79.18,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/13",
+      "postDate": "09/13",
+      "description": "SP BESQUE DOVER DE",
+      "amount": 130.96,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/13",
+      "postDate": "09/13",
+      "description": "UBER *EATS 8005928996 CA",
+      "amount": 77.57,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/18",
+      "postDate": "08/18",
+      "description": "X CORP. PAID FEATURES BASTROP TX",
+      "amount": 8.0,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/21",
+      "postDate": "08/21",
+      "description": "X CORP. PAID FEATURES BASTROP TX",
+      "amount": 4.0,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "08/22",
+      "postDate": "08/22",
+      "description": "UBER *ONE MEMBERSHIP 8005928996 CA",
+      "amount": 9.99,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "08/31",
+      "postDate": "08/31",
+      "description": "THE UPS STORE 3989 WESTON FL",
+      "amount": 82.72,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/01",
+      "postDate": "09/01",
+      "description": "CVS/PHARMACY #03609 WESTON FL",
+      "amount": 44.17,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/02",
+      "postDate": "09/02",
+      "description": "TEBEX.ORG Wilmington DE",
+      "amount": 6.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/02",
+      "postDate": "09/02",
+      "description": "MENARDS MOVING LAKE WORTH FL",
+      "amount": 795.08,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/02",
+      "postDate": "09/02",
+      "description": "HAIRVENTURE WESTON FL",
+      "amount": 57.5,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/02",
+      "postDate": "09/02",
+      "description": "THE HOME DEPOT 6326 DAVIE FL",
+      "amount": 84.32,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/05",
+      "postDate": "09/05",
+      "description": "FOLK BY NOZOMIO LABS LEWES DE",
+      "amount": 20.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/05",
+      "postDate": "09/05",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 25.48,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/06",
+      "postDate": "09/06",
+      "description": "REMEMBR WESTON FL",
+      "amount": 100.39,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/06",
+      "postDate": "09/06",
+      "description": "IZGARA MEDITERRANEAN W WESTON FL",
+      "amount": 76.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/06",
+      "postDate": "09/06",
+      "description": "GENERAL INTELLIGENCE NEW YORK NY",
+      "amount": 20.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/07",
+      "postDate": "09/07",
+      "description": "MENARDS MOVING LAKE WORTH FL",
+      "amount": 400.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 22.88,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 181.8,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/08",
+      "postDate": "09/08",
+      "description": "EAST COAST VALET PARKI FORT LAUDERDA FL",
+      "amount": 7.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/09",
+      "postDate": "09/09",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 27.36,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/09",
+      "postDate": "09/09",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 37.45,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/09",
+      "postDate": "09/09",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 40.67,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/10",
+      "postDate": "09/10",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 41.2,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/10",
+      "postDate": "09/10",
+      "description": "URBAN PAWZ ANIMAL CLIN COCONUT CREEK FL",
+      "amount": 329.82,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/11",
+      "postDate": "09/11",
+      "description": "WALGREENS #2193 DAVIE FL",
+      "amount": 18.18,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/11",
+      "postDate": "09/11",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 27.29,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/11",
+      "postDate": "09/11",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 41.28,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/11",
+      "postDate": "09/11",
+      "description": "MIA II ICEBOX 6481116 MIAMI FL",
+      "amount": 102.04,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/11",
+      "postDate": "09/11",
+      "description": "NEWSLINK 09 MIA MIAMI FL",
+      "amount": 5.34,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/11",
+      "postDate": "09/11",
+      "description": "NEWSLINK 06 MIA MIAMI FL",
+      "amount": 10.68,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/11",
+      "postDate": "09/11",
+      "description": "BEST BUY 0000551 PLANTATION FL",
+      "amount": 143.35,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "AA INFLIGHT Fort Worth TX",
+      "amount": 22.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "HOMEGOODS #0864 BASTROP TX",
+      "amount": 1.49,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "X CORP. PAID FEATURES BASTROP TX",
+      "amount": 8.0,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 28.9,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "H-E-B #582 BASTROP TX",
+      "amount": 31.37,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "X CORP. PAID FEATURES BASTROP TX",
+      "amount": 40.0,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "HOMEGOODS #0864 BASTROP TX",
+      "amount": 481.5,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "BUC-EE'S #0028 BASTROP TX",
+      "amount": 54.06,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "AT&T BRQ4 113123 DAVIE FL",
+      "amount": 77.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "PETCO 1496 BASTROP TX",
+      "amount": 242.13,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "SQ *MASTER TOUCH MECHA Sunrise FL",
+      "amount": 1100.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "DENNY'S #9339 BASTROP TX",
+      "amount": 35.81,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "THE HOME DEPOT #6326 DAVIE FL",
+      "amount": 6.39,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/12",
+      "postDate": "09/12",
+      "description": "THE HOME DEPOT #6326 DAVIE FL",
+      "amount": 59.44,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/13",
+      "postDate": "09/13",
+      "description": "TST* BUDDIES CAFE - WE WESTON FL",
+      "amount": 6.06,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/13",
+      "postDate": "09/13",
+      "description": "STARBUCKS 8007827282 SEATTLE WA",
+      "amount": 20.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/13",
+      "postDate": "09/13",
+      "description": "OPENAI SAN FRANCISCO CA",
+      "amount": 10.0,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "OpenAI"
+    },
+    {
+      "transDate": "09/13",
+      "postDate": "09/13",
+      "description": "HIGGSFIELD INC. SAN FRANCISCO CA",
+      "amount": 29.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/13",
+      "postDate": "09/13",
+      "description": "TST* REMEMBR - WESTON SUNRISE FL",
+      "amount": 45.77,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/13",
+      "postDate": "09/13",
+      "description": "HIGGSFIELD INC. SAN FRANCISCO CA",
+      "amount": 55.3,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/13",
+      "postDate": "09/13",
+      "description": "CVS/PHARMACY #03609 WESTON FL",
+      "amount": 111.45,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "09/13",
+      "postDate": "09/13",
+      "description": "SQ *BORING BODEGA Bastrop TX",
+      "amount": 3.21,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "09/13",
+      "postDate": "09/13",
+      "description": "SQ *BORING BODEGA Bastrop TX",
+      "amount": 13.87,
+      "extra": [],
+      "category": "pedro-work-onsite",
+      "flags": [
+        "pedro-onsite-bodega"
+      ],
+      "merchant": null
+    }
+  ],
+  "sourceFile": "September_14.txt"
+}

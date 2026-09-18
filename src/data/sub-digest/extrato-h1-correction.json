@@ -1,0 +1,275 @@
+{
+  "agent": "sub extrato-h1-correction",
+  "correctedAt": "2026-09-18T10:30:00-04:00",
+  "card": {
+    "label": "Paula Citi ****0183",
+    "last4": "0183",
+    "namedAs": "PAULA BARIFOUSE"
+  },
+  "window": "Jan\u2013May 2026",
+  "success": true,
+  "testsPassed": true,
+  "cancelsPerformed": false,
+  "junSepTouched": false,
+  "parserChanges": {
+    "primary": "/workspace/momcard/audit_extratos.py",
+    "obsoleteNoted": "/workspace/momcard/parse_citi.py",
+    "verifyScript": "/workspace/momcard/data/sub-digest/_reparse_h1_verify.py",
+    "details": [
+      "parse_card_txs: FX continuation \u2014 merchant line with dates+desc but no $amount attaches next-line `NNN.NN CURRENCY  $USD` (skips page-break noise)",
+      "parse_card_txs: hard-stop before Cash Advances / Fees Charged / Interest Charged / Citi Flex Plan -* / Citi Flex Plan details",
+      "parse_card_txs: skip CITI FLEX PAY / PLAN FEE / ADVANCES*TRANSACTION FEE / INTEREST CHARGED TO / TOTAL FEES|INTEREST",
+      "TECH + TECH_MERCHANT_MAP: ELEVENLABS\u2192ElevenLabs, GENERAL INTELLIGENCE\u2192General Intelligence (category pedro-tech-saas, flag pedro-likely-tech)",
+      "Main wrapped in if __name__ == \"__main__\" with ONLY_MONTHS write filter to protect Jun\u2013Sep",
+      "parse_citi.py marked OBSOLETE \u2014 one-off Sep script; active parser is audit_extratos.py"
+    ]
+  },
+  "backups": [
+    "/workspace/momcard/data/citi-0183-2026-01.json.bak-pre-fx-fix-20260918",
+    "/workspace/momcard/data/citi-0183-2026-02.json.bak-pre-fx-fix-20260918",
+    "/workspace/momcard/data/citi-0183-2026-03.json.bak-pre-fx-fix-20260918",
+    "/workspace/momcard/data/citi-0183-2026-04.json.bak-pre-fx-fix-20260918",
+    "/workspace/momcard/data/citi-0183-2026-05.json.bak-pre-fx-fix-20260918"
+  ],
+  "jsonRegenerated": [
+    "/workspace/momcard/data/citi-0183-2026-01.json",
+    "/workspace/momcard/data/citi-0183-2026-02.json",
+    "/workspace/momcard/data/citi-0183-2026-03.json",
+    "/workspace/momcard/data/citi-0183-2026-04.json",
+    "/workspace/momcard/data/citi-0183-2026-05.json"
+  ],
+  "jsonUntouched": [
+    "/workspace/momcard/data/citi-0183-2026-06.json",
+    "/workspace/momcard/data/citi-0183-2026-07.json",
+    "/workspace/momcard/data/citi-0183-2026-08.json",
+    "/workspace/momcard/data/citi-0183-2026-09.json"
+  ],
+  "h1": {
+    "purchases": 35932.28,
+    "parsedSumBefore": 37340.89,
+    "parsedSumAfter": 35932.28,
+    "gapBefore": -1408.61,
+    "gapAfter": 0.0,
+    "pedroTechTotalBefore": 1925.39,
+    "pedroTechTotalAfter": 2105.39,
+    "pedroTechDelta": 180.0,
+    "pedroTechAddOns": {
+      "ElevenLabs": {
+        "count": 5,
+        "amountEach": 22.0,
+        "total": 110.0
+      },
+      "GeneralIntelligence": {
+        "count": 2,
+        "amounts": [
+          20.0,
+          50.0
+        ],
+        "total": 70.0
+      },
+      "totalAddOns": 180.0
+    }
+  },
+  "pedroTechNewMerchants": [
+    {
+      "month": "2026-01",
+      "postDate": "01/09",
+      "amount": 22.0,
+      "merchant": "ElevenLabs",
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "description": "ELEVENLABS.IO NEW YORK NY"
+    },
+    {
+      "month": "2026-02",
+      "postDate": "02/09",
+      "amount": 22.0,
+      "merchant": "ElevenLabs",
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "description": "ELEVENLABS.IO NEW YORK NY"
+    },
+    {
+      "month": "2026-03",
+      "postDate": "03/09",
+      "amount": 22.0,
+      "merchant": "ElevenLabs",
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "description": "ELEVENLABS.IO NEW YORK NY"
+    },
+    {
+      "month": "2026-04",
+      "postDate": "04/09",
+      "amount": 22.0,
+      "merchant": "ElevenLabs",
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "description": "ELEVENLABS.IO NEW YORK NY"
+    },
+    {
+      "month": "2026-05",
+      "postDate": "05/09",
+      "amount": 22.0,
+      "merchant": "ElevenLabs",
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "description": "ELEVENLABS.IO NEW YORK NY"
+    },
+    {
+      "month": "2026-05",
+      "postDate": "05/06",
+      "amount": 20.0,
+      "merchant": "General Intelligence",
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "description": "GENERAL INTELLIGENCE NEW YORK NY"
+    },
+    {
+      "month": "2026-05",
+      "postDate": "05/06",
+      "amount": 50.0,
+      "merchant": "General Intelligence",
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "description": "GENERAL INTELLIGENCE NEW YORK NY"
+    }
+  ],
+  "months": [
+    {
+      "month": "2026-01",
+      "sourceFile": "January_14.txt",
+      "jsonFile": "citi-0183-2026-01.json",
+      "backup": "citi-0183-2026-01.json.bak-pre-fx-fix-20260918",
+      "purchases": 4175.43,
+      "before": {
+        "parsedSum": 4032.62,
+        "parsedCount": 48,
+        "gap": 142.81,
+        "pedroTechTotal": 238.7
+      },
+      "after": {
+        "parsedSum": 4175.43,
+        "parsedCount": 50,
+        "gap": 0.0,
+        "pedroTechTotal": 260.7
+      },
+      "notes": "Attached 2 Brazil FX lines (GURUME IPANEMA $117.58 + COOP AEROTAXI $25.23). ElevenLabs $22 \u2192 pedro-tech-saas."
+    },
+    {
+      "month": "2026-02",
+      "sourceFile": "February_13.txt",
+      "jsonFile": "citi-0183-2026-02.json",
+      "backup": "citi-0183-2026-02.json.bak-pre-fx-fix-20260918",
+      "purchases": 7081.89,
+      "before": {
+        "parsedSum": 8774.32,
+        "parsedCount": 34,
+        "gap": -1692.43,
+        "pedroTechTotal": 63.14
+      },
+      "after": {
+        "parsedSum": 7081.89,
+        "parsedCount": 76,
+        "gap": 0.0,
+        "pedroTechTotal": 85.14
+      },
+      "notes": "Attached 44 Brazil FX (+$1,705.24). Dropped CITI FLEX PAY $3,367 restatement + PLAN FEE $30.67. Kept BRISTOL WEST INSURANCE $3,367. ElevenLabs $22 \u2192 pedro-tech-saas."
+    },
+    {
+      "month": "2026-03",
+      "sourceFile": "March_13.txt",
+      "jsonFile": "citi-0183-2026-03.json",
+      "backup": "citi-0183-2026-03.json.bak-pre-fx-fix-20260918",
+      "purchases": 5107.93,
+      "before": {
+        "parsedSum": 4771.35,
+        "parsedCount": 55,
+        "gap": 336.58,
+        "pedroTechTotal": 272.76
+      },
+      "after": {
+        "parsedSum": 5107.93,
+        "parsedCount": 66,
+        "gap": 0.0,
+        "pedroTechTotal": 294.76
+      },
+      "notes": "Attached 11 Lisbon/London FX lines (+$336.58). ElevenLabs $22 \u2192 tech."
+    },
+    {
+      "month": "2026-04",
+      "sourceFile": "April_14.txt",
+      "jsonFile": "citi-0183-2026-04.json",
+      "backup": "citi-0183-2026-04.json.bak-pre-fx-fix-20260918",
+      "purchases": 9771.97,
+      "before": {
+        "parsedSum": 9771.97,
+        "parsedCount": 95,
+        "gap": 0.0,
+        "pedroTechTotal": 803.07
+      },
+      "after": {
+        "parsedSum": 9771.97,
+        "parsedCount": 95,
+        "gap": 0.0,
+        "pedroTechTotal": 825.07
+      },
+      "notes": "Purchases already matched. ElevenLabs $22 reclassified pedro-tech-saas (+$22 tech)."
+    },
+    {
+      "month": "2026-05",
+      "sourceFile": "May_14.txt",
+      "jsonFile": "citi-0183-2026-05.json",
+      "backup": "citi-0183-2026-05.json.bak-pre-fx-fix-20260918",
+      "purchases": 9795.06,
+      "before": {
+        "parsedSum": 9990.63,
+        "parsedCount": 141,
+        "gap": -195.57,
+        "pedroTechTotal": 547.72
+      },
+      "after": {
+        "parsedSum": 9795.06,
+        "parsedCount": 142,
+        "gap": 0.0,
+        "pedroTechTotal": 639.72
+      },
+      "notes": "Attached 3 Brazil FX (+$75.81). Dropped RMTLY* cash advance $258.46 + ADVANCES*TRANSACTION FEE $12.92. ElevenLabs $22 + General Intelligence $20+$50 \u2192 pedro-tech-saas."
+    }
+  ],
+  "confirmations": {
+    "allFiveParsedSumEqualsPurchasesToCent": true,
+    "noFlexPayInPurchases": true,
+    "noCashAdvanceInPurchases": true,
+    "noPlanFeeOrAdvanceFeeInPurchases": true,
+    "bristolWestInsuranceKeptInFeb": true,
+    "elevenLabsAndGeneralIntelligenceArePedroTechSaas": true,
+    "noCancels": true,
+    "noPasswordResets": true,
+    "noInventedLineItems": true,
+    "junSepUntouched": true,
+    "originalQaDigestPreserved": "/workspace/momcard/data/sub-digest/extrato-h1.json"
+  },
+  "verifyScript": "/workspace/momcard/data/sub-digest/_reparse_h1_verify.py"
+}

@@ -1,0 +1,556 @@
+{
+  "generatedAt": "2026-09-18T08:21:46.351807-05:00",
+  "rules": [
+    "No cancels performed",
+    "Apple.com/bill EXCLUDED from pedroBurnMerchants",
+    "All rankedCuts need Pedro OK before action"
+  ],
+  "pedroBurnMerchants": [
+    {
+      "merchant": "GoDaddy",
+      "periodTotal": 1492.16,
+      "chargeCount": 47,
+      "avgPerMonthAcrossAudit": 165.8,
+      "source": "Paula Citi ****0183",
+      "status": "WAITING_PEDRO_OK",
+      "cancelPerformed": false
+    },
+    {
+      "merchant": "Vercel",
+      "periodTotal": 673.98,
+      "chargeCount": 8,
+      "avgPerMonthAcrossAudit": 74.89,
+      "source": "Paula Citi ****0183",
+      "status": "WAITING_PEDRO_OK",
+      "cancelPerformed": false
+    },
+    {
+      "merchant": "Cursor",
+      "periodTotal": 260.0,
+      "chargeCount": 2,
+      "avgPerMonthAcrossAudit": 28.89,
+      "source": "Paula Citi ****0183",
+      "status": "WAITING_PEDRO_OK",
+      "cancelPerformed": false
+    },
+    {
+      "merchant": "OpenAI",
+      "periodTotal": 10.0,
+      "chargeCount": 1,
+      "avgPerMonthAcrossAudit": 1.11,
+      "source": "Paula Citi ****0183",
+      "status": "WAITING_PEDRO_OK",
+      "cancelPerformed": false
+    },
+    {
+      "merchant": "Discord Nitro",
+      "periodTotal": 9.99,
+      "chargeCount": 1,
+      "avgPerMonthAcrossAudit": 1.11,
+      "source": "Paula Citi ****0183",
+      "status": "WAITING_PEDRO_OK",
+      "cancelPerformed": false
+    },
+    {
+      "merchant": "X Corp Paid Features",
+      "periodTotal": 232.0,
+      "chargeCount": 15,
+      "avgPerMonthAcrossAudit": null,
+      "source": "Paula Citi ****0183",
+      "status": "WAITING_PEDRO_OK",
+      "cancelPerformed": false
+    },
+    {
+      "merchant": "Railway",
+      "periodTotal": 120.75,
+      "chargeCount": 1,
+      "source": "****3366 email receipt (NOT mom card)",
+      "status": "INVENTORY_OFFCARD",
+      "cancelPerformed": false
+    },
+    {
+      "merchant": "Vercel Domains (housemates.pet)",
+      "periodTotal": 19.99,
+      "chargeCount": 1,
+      "source": "****1431 email receipt (NOT mom card)",
+      "status": "INVENTORY_OFFCARD",
+      "cancelPerformed": false
+    },
+    {
+      "merchant": "Google Cloud / Gemini Project",
+      "periodTotal": 33.82,
+      "chargeCount": 5,
+      "source": "email receipts (card last4 ambiguous)",
+      "status": "REVIEW_PAST_DUE",
+      "cancelPerformed": false
+    }
+  ],
+  "familyAmbiguous": [
+    {
+      "merchant": "Apple.com/bill",
+      "periodTotal": 2652.71,
+      "chargeCount": 84,
+      "source": "Paula Citi ****0183",
+      "reason": "Pedro said NOT all his; Family Sharing likely",
+      "digest": "apple-family.json",
+      "pedroBurnAssignedUsd": 0
+    },
+    {
+      "merchant": "Ally Auto ****1068",
+      "observedPayment": 220.0,
+      "namedAs": "Mauricio",
+      "reason": "family auto loan \u2014 not Pedro SaaS",
+      "digest": "offcard-tech.json"
+    },
+    {
+      "merchant": "Klarna GoDaddy (Mauricio)",
+      "balanceOutstanding": 123.33,
+      "namedAs": "Mauricio De Lucca Sobral",
+      "reason": "Klarna payment-plan late fees \u2192 TrueAccord collections; family, not Pedro 0183 GoDaddy burn",
+      "digest": "offcard-tech.json"
+    },
+    {
+      "merchant": "Bank of America ADV PLUS ****2880",
+      "namedAs": "ambiguous household",
+      "reason": "balance/NSF/Zelle alerts \u2014 funding account, not SaaS burn",
+      "digest": "offcard-tech.json"
+    }
+  ],
+  "rankedCuts": [
+    {
+      "merchant": "Cursor",
+      "action": "Confirm $60+$200 same-day seats/plans; keep one Pro; drop Ultra/duplicate",
+      "monthlySaveEst": 200.0,
+      "oneTimeSaveEst": 0,
+      "effort": "low",
+      "risk": "low",
+      "needsPedroOK": true,
+      "rank": 1
+    },
+    {
+      "rank": 2,
+      "merchant": "Semrush",
+      "action": "Cancel Semrush $199 if SEO tooling unused",
+      "monthlySaveEst": 199,
+      "bucket": "PEDRO-OFFCARD-BOFA0952",
+      "periodObservedUsd": 199,
+      "needsPedroOK": true,
+      "cancelPerformed": false
+    },
+    {
+      "merchant": "Vercel",
+      "action": "Remove idle Neon/Supabase marketplace addons; delete idle projects; keep one Pro for live prod",
+      "monthlySaveEst": 180.0,
+      "oneTimeSaveEst": 0,
+      "effort": "medium",
+      "risk": "medium",
+      "needsPedroOK": true,
+      "rank": 3
+    },
+    {
+      "merchant": "GoDaddy",
+      "action": "Audit My Products; turn off auto-renew on junk domains; avoid bundled renewals ($181+$226 class)",
+      "monthlySaveEst": 100.0,
+      "oneTimeSaveEst": 400.0,
+      "effort": "medium",
+      "risk": "medium",
+      "needsPedroOK": true,
+      "rank": 4
+    },
+    {
+      "rank": 5,
+      "merchant": "Dropbox",
+      "action": "Downgrade or cancel Dropbox ~$72/mo on BofA ****0952 if unused",
+      "monthlySaveEst": 72,
+      "bucket": "PEDRO-OFFCARD-BOFA0952",
+      "periodObservedUsd": 72,
+      "needsPedroOK": true,
+      "cancelPerformed": false
+    },
+    {
+      "merchant": "Railway",
+      "action": "Finish idle project deletes (thriving-transformation queued); set spend cap; keep only prod",
+      "monthlySaveEst": 60.0,
+      "oneTimeSaveEst": 0,
+      "effort": "medium",
+      "risk": "medium",
+      "needsPedroOK": true,
+      "note": "Two instruments: BofA ****0952 $27.75 (May) vs Stripe \u2022\u2022\u2022\u20223366 $120.75 (Sep) \u2014 likely upgraded/moved",
+      "periodObservedUsd": 120.75,
+      "rank": 6
+    },
+    {
+      "rank": 7,
+      "merchant": "SEOBOT",
+      "action": "Cancel SEOBOT $49 if unused",
+      "monthlySaveEst": 49,
+      "bucket": "PEDRO-OFFCARD-BOFA0952",
+      "periodObservedUsd": 49,
+      "needsPedroOK": true,
+      "cancelPerformed": false
+    },
+    {
+      "rank": 8,
+      "merchant": "Resend",
+      "action": "Keep only if prod email API needs it; else cancel $20",
+      "monthlySaveEst": 20,
+      "bucket": "PEDRO-OFFCARD-BOFA0952",
+      "periodObservedUsd": 20,
+      "needsPedroOK": true,
+      "cancelPerformed": false
+    },
+    {
+      "rank": 9,
+      "merchant": "Shockbyte",
+      "action": "Cancel game hosting $19.99 if unused",
+      "monthlySaveEst": 19.99,
+      "bucket": "PEDRO-OFFCARD",
+      "periodObservedUsd": 19.99,
+      "needsPedroOK": true,
+      "cancelPerformed": false
+    },
+    {
+      "merchant": "OpenAI",
+      "action": "Confirm Plus vs API; cancel if unused",
+      "monthlySaveEst": 10.0,
+      "oneTimeSaveEst": 0,
+      "effort": "low",
+      "risk": "low",
+      "needsPedroOK": true,
+      "rank": 10
+    },
+    {
+      "merchant": "Discord Nitro",
+      "action": "Cancel Nitro monthly if not essential",
+      "monthlySaveEst": 9.99,
+      "oneTimeSaveEst": 0,
+      "effort": "low",
+      "risk": "low",
+      "needsPedroOK": true,
+      "rank": 11
+    },
+    {
+      "merchant": "X Corp Paid Features",
+      "action": "Cancel Premium/Premium+ if unused (sibling digest)",
+      "monthlySaveEst": 8.0,
+      "oneTimeSaveEst": 0,
+      "effort": "low",
+      "risk": "low",
+      "needsPedroOK": true,
+      "rank": 12
+    },
+    {
+      "merchant": "Google Cloud / Gemini",
+      "action": "Fix payment or shut unused project (past-due Sep 8)",
+      "monthlySaveEst": 5.0,
+      "oneTimeSaveEst": 0,
+      "effort": "low",
+      "risk": "low",
+      "needsPedroOK": true,
+      "rank": 13
+    },
+    {
+      "rank": 14,
+      "merchant": "Coinbase One",
+      "action": "Cancel Coinbase One $4.99 if unused",
+      "monthlySaveEst": 4.99,
+      "bucket": "PEDRO-OFFCARD",
+      "periodObservedUsd": 4.99,
+      "needsPedroOK": true,
+      "cancelPerformed": false
+    },
+    {
+      "rank": 15,
+      "merchant": "Manus AI",
+      "action": "Confirm Manus AI $390 on ****0952 \u2014 cancel if one-off trial unused",
+      "monthlySaveEst": null,
+      "oneTimeSaveEst": 390,
+      "bucket": "PEDRO-OFFCARD-BOFA0952",
+      "periodObservedUsd": 390,
+      "needsPedroOK": true,
+      "cancelPerformed": false
+    },
+    {
+      "merchant": "Vercel Domains ****1431",
+      "action": "Keep housemates.pet only if still used",
+      "monthlySaveEst": 0,
+      "oneTimeSaveEst": 19.99,
+      "effort": "low",
+      "risk": "low",
+      "needsPedroOK": true,
+      "rank": 16
+    },
+    {
+      "merchant": "Apple.com/bill",
+      "action": "DO NOT cancel. Run Family Sharing + Subscriptions audit; answer apple-family.json questions",
+      "monthlySaveEst": 0,
+      "oneTimeSaveEst": 0,
+      "effort": "medium",
+      "risk": "high if cancelled blindly",
+      "needsPedroOK": true,
+      "parkedFamilyAmbiguous": true,
+      "rank": 17
+    }
+  ],
+  "maxAggressiveMonthlySaveEst": 937.97,
+  "keepMinimumStack": [
+    "One Cursor Pro seat (drop Ultra / duplicate seat)",
+    "One Vercel Pro for live Versatly/hale production only (no idle Neon/Supabase)",
+    "Railway: active production services only + spend cap",
+    "GoDaddy: in-use domains only; auto-renew OFF on rest",
+    "Apple: Family Sharing essentials only AFTER Pedro tags each sub (no blanket cancel)",
+    "Capital One Platinum ****2484: activate physical card; pay $284.09 due 2026-10-11",
+    "Ally Auto ****1068: keep $220 family payment; fix BoA NSF funding"
+  ],
+  "pedroBurnCorrectedOnCard": {
+    "totalAcrossAuditExApple": 2446.13,
+    "avgPerMonthExApple": 271.79,
+    "appleParkedTotal": 2652.71,
+    "merchantsCountedOnCard": [
+      "GoDaddy",
+      "Vercel",
+      "Cursor",
+      "OpenAI",
+      "Discord Nitro"
+    ]
+  },
+  "siblingDigestsUsed": [
+    "MASTER-reduce.json",
+    "MASTER-reduce.md",
+    "README.md",
+    "_gd_analysis.json",
+    "_gd_raw_extract.json",
+    "ai-tools-digest.json",
+    "apple-family.json",
+    "apple-family.md",
+    "card-evidence-ai-tools.json",
+    "godaddy-charges.json",
+    "godaddy.json",
+    "godaddy.md",
+    "offcard-tech-inventory.json",
+    "offcard-tech-inventory.md",
+    "offcard-tech.json",
+    "public-pricing.json",
+    "reduce-map.md",
+    "vercel-aug-sep-2026.json",
+    "vercel-aug-sep-2026.md",
+    "vercel.json",
+    "vercel.md"
+  ],
+  "gaps": [
+    "No sibling reduce digests for Uber/food/medical \u2014 MASTER from card + billing + email + AI/GoDaddy siblings",
+    "Apple $0 in maxAggressiveMonthlySaveEst (parked)",
+    "GoDaddy/Vercel monthly save estimates need Pedro product confirmation",
+    "Cap One ****2484 $284.09 has no line items in email"
+  ],
+  "bofa0952Offcard": {
+    "source": "offcard-tech-inventory.json (executor 2026-09-18)",
+    "snapshotSumUsd": 757.75,
+    "dropboxAnnualizedUsd": 864,
+    "items": [
+      {
+        "merchant": "Railway",
+        "category": "cloud hosting",
+        "cardLast4": "0952",
+        "cardIssuer": "Bank of America debit",
+        "observedAmounts": [
+          27.75
+        ],
+        "approxMonthly": null,
+        "liveUsageMtd": 20.39,
+        "cadence": "usage-based",
+        "pedroTechLikely": true,
+        "onCiti0183": false,
+        "periodProxyUsd": 27.75
+      },
+      {
+        "merchant": "Dropbox",
+        "category": "cloud storage",
+        "cardLast4": "0952",
+        "cardIssuer": "Bank of America debit",
+        "observedAmounts": [
+          72.0,
+          72.0,
+          72.0,
+          72.0,
+          72.0,
+          72.0
+        ],
+        "approxMonthly": 72.0,
+        "liveUsageMtd": null,
+        "cadence": "monthly",
+        "pedroTechLikely": true,
+        "onCiti0183": false,
+        "periodProxyUsd": 72.0
+      },
+      {
+        "merchant": "Resend",
+        "category": "email API",
+        "cardLast4": "0952",
+        "cardIssuer": null,
+        "observedAmounts": [
+          20.0
+        ],
+        "approxMonthly": null,
+        "liveUsageMtd": null,
+        "cadence": "monthly?",
+        "pedroTechLikely": true,
+        "onCiti0183": false,
+        "periodProxyUsd": 20.0
+      },
+      {
+        "merchant": "Semrush",
+        "category": "SEO SaaS",
+        "cardLast4": "0952",
+        "cardIssuer": null,
+        "observedAmounts": [
+          199.0
+        ],
+        "approxMonthly": null,
+        "liveUsageMtd": null,
+        "cadence": "monthly or annual installment",
+        "pedroTechLikely": true,
+        "onCiti0183": false,
+        "periodProxyUsd": 199.0
+      },
+      {
+        "merchant": "SEOBOT",
+        "category": "SEO tooling",
+        "cardLast4": "0952",
+        "cardIssuer": null,
+        "observedAmounts": [
+          49.0
+        ],
+        "approxMonthly": null,
+        "liveUsageMtd": null,
+        "cadence": "unknown",
+        "pedroTechLikely": true,
+        "onCiti0183": false,
+        "periodProxyUsd": 49.0
+      },
+      {
+        "merchant": "Manus AI",
+        "category": "AI SaaS",
+        "cardLast4": "0952",
+        "cardIssuer": null,
+        "observedAmounts": [
+          390.0
+        ],
+        "approxMonthly": null,
+        "liveUsageMtd": null,
+        "cadence": "unknown (large one-time or plan)",
+        "pedroTechLikely": true,
+        "onCiti0183": false,
+        "periodProxyUsd": 390.0
+      },
+      {
+        "merchant": "Starlink Internet",
+        "category": "connectivity",
+        "cardLast4": "0952",
+        "cardIssuer": null,
+        "observedAmounts": [
+          0.0
+        ],
+        "approxMonthly": null,
+        "liveUsageMtd": null,
+        "cadence": "monthly (account on file; $0 on sample day)",
+        "pedroTechLikely": true,
+        "onCiti0183": false,
+        "periodProxyUsd": 0.0
+      },
+      {
+        "merchant": "Afterpay",
+        "category": "BNPL",
+        "cardLast4": "0952",
+        "cardIssuer": null,
+        "observedAmounts": [
+          182.5
+        ],
+        "approxMonthly": null,
+        "liveUsageMtd": null,
+        "cadence": "installment",
+        "pedroTechLikely": false,
+        "onCiti0183": false,
+        "periodProxyUsd": 182.5
+      },
+      {
+        "merchant": "Shockbyte",
+        "category": "game server hosting",
+        "cardLast4": "unknown (Rocket Money tracked)",
+        "cardIssuer": null,
+        "observedAmounts": [
+          19.99
+        ],
+        "approxMonthly": null,
+        "liveUsageMtd": null,
+        "cadence": "monthly",
+        "pedroTechLikely": true,
+        "onCiti0183": false,
+        "periodProxyUsd": 19.99
+      },
+      {
+        "merchant": "Coinbase One",
+        "category": "crypto membership",
+        "cardLast4": null,
+        "cardIssuer": null,
+        "observedAmounts": [
+          4.99
+        ],
+        "approxMonthly": null,
+        "liveUsageMtd": null,
+        "cadence": "monthly",
+        "pedroTechLikely": false,
+        "onCiti0183": false,
+        "periodProxyUsd": 4.99
+      },
+      {
+        "merchant": "Whop*Trade With Ins",
+        "category": "marketplace / trading product",
+        "cardLast4": "0952",
+        "cardIssuer": null,
+        "observedAmounts": [
+          219.0
+        ],
+        "approxMonthly": null,
+        "liveUsageMtd": null,
+        "cadence": null,
+        "pedroTechLikely": false,
+        "onCiti0183": false,
+        "periodProxyUsd": 219.0
+      },
+      {
+        "merchant": "Klarna (collections)",
+        "category": "BNPL / collections",
+        "cardLast4": null,
+        "cardIssuer": null,
+        "observedAmounts": [],
+        "approxMonthly": null,
+        "liveUsageMtd": null,
+        "cadence": null,
+        "pedroTechLikely": false,
+        "onCiti0183": false,
+        "periodProxyUsd": null
+      }
+    ],
+    "note": "From BofA recurring-merchants email May 2026 + live Gmail. Not on Paula ****0183."
+  },
+  "xCorpStatus": {
+    "onCiti0183": true,
+    "periodTotalApprox": 232,
+    "inCancelCandidates": true,
+    "note": "Was missing; now in citi-cancel-candidates per momcard merge"
+  },
+  "updatedAt": "2026-09-18T08:22:53",
+  "updateNote": "Merged expanded BofA ****0952 off-card inventory (Dropbox/Semrush/Manus/Resend/SEOBOT/etc.)",
+  "scopeNote": {
+    "updatedAt": "2026-09-18T10:17:26",
+    "owner": "sub reduce-map",
+    "owns": [
+      "apple-family.* FAMILY-AMBIGUOUS",
+      "MASTER-reduce.* ranked cuts"
+    ],
+    "doesNotOwn": "Off-card Railway/Klarna/BofA ****0952 dig \u2014 owned by sub off-card (4082841). MASTER may reference their inventory but does not re-dig mail.",
+    "eggbotRekickedAt": "2026-09-18"
+  },
+  "offCardPointer": "See sub off-card artifacts / offcard-tech-inventory.*; do not treat reduce-map as off-card owner."
+}

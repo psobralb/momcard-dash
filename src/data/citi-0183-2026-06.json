@@ -1,0 +1,1583 @@
+{
+  "summary": {
+    "last4": "0183",
+    "name": "PAULA BARIFOUSE",
+    "product": "Citi AAdvantage Executive Mastercard",
+    "period": "05/15/26-06/12/26",
+    "purchases": 17146.96,
+    "newBalance": 17681.07,
+    "interest": 18.49,
+    "minPayment": 568.69,
+    "due": "07/10/26",
+    "payments": -23030.0,
+    "credits": -23.86,
+    "previousBalance": 8569.48
+  },
+  "parsedCount": 148,
+  "parsedSum": 16371.23,
+  "byCategory": {
+    "other": 3731.9,
+    "pedro-tech-saas": 451.61,
+    "fl-household": 12029.52,
+    "travel": 146.2,
+    "bastrop-local": 12.0
+  },
+  "pedroTechTotal": 451.61,
+  "pedroWorkOnsiteTotal": 0,
+  "transactions": [
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "DL *UberRides Sao Paulo BRA",
+      "amount": 3.47,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "DL *UberRides Sao Paulo BRA",
+      "amount": 10.99,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/14",
+      "postDate": "05/15",
+      "description": "DNH*GODADDY#4088217480 TEMPE AZ",
+      "amount": 19.98,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "DL *UberRides Sao Paulo BRA",
+      "amount": 1.02,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "DL *UberRides Sao Paulo BRA",
+      "amount": 8.34,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "DL *UberRides Sao Paulo BRA",
+      "amount": 15.88,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "RAIA1732 GUARULHOS BRA",
+      "amount": 41.06,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "FARMACIA INTERFARMA RIO DE JANEIR BRA",
+      "amount": 110.9,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "DROGARIAS PACHECO RIO DE JANEIR BRA",
+      "amount": 118.74,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "POSTO ACESSORIOS RIO DE JANEIR BRA",
+      "amount": 137.38,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "TEB*NEURO BEHAVIORAL I WESTON FL",
+      "amount": 1030.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/17",
+      "postDate": "05/17",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 44.97,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "05/17",
+      "postDate": "05/17",
+      "description": "UBER *EATS 8005928996 CA",
+      "amount": 80.45,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/18",
+      "postDate": "05/18",
+      "description": "AUTOSPARK Miami FL",
+      "amount": 40.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/19",
+      "postDate": "05/19",
+      "description": "TEB*NEURO BEHAVIORAL I WESTON FL",
+      "amount": 1030.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/20",
+      "postDate": "05/20",
+      "description": "CVS/PHARMACY #03609 WESTON FL",
+      "amount": 8.48,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/20",
+      "postDate": "05/20",
+      "description": "CVS/PHARMACY #03609 WESTON FL",
+      "amount": 13.45,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/20",
+      "postDate": "05/20",
+      "description": "IC* INSTACART*159 SAN FRANCISCO CA",
+      "amount": 197.3,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/20",
+      "postDate": "05/20",
+      "description": "ELITE PAINCARE DAVIE FL",
+      "amount": 27.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/22",
+      "postDate": "05/22",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 44.96,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "05/22",
+      "postDate": "05/22",
+      "description": "GODADDY#4094657463 TEMPE AZ",
+      "amount": 9.99,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "05/22",
+      "postDate": "05/22",
+      "description": "TEB*NEURO BEHAVIORAL I WESTON FL",
+      "amount": 500.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/22",
+      "postDate": "05/22",
+      "description": "UBER *EATS 8005928996 CA",
+      "amount": 4.79,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/22",
+      "postDate": "05/22",
+      "description": "UBER *EATS 8005928996 CA",
+      "amount": 39.09,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/22",
+      "postDate": "05/22",
+      "description": "EMERSON CRISTIANO HA NORTH MIAMI B FL",
+      "amount": 245.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/23",
+      "postDate": "05/23",
+      "description": "IC* INSTACART*159 8882467822 CA",
+      "amount": 192.48,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/23",
+      "postDate": "05/23",
+      "description": "IC* INSTACART*159 8882467822 CA",
+      "amount": 3.83,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/24",
+      "postDate": "05/24",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 59.96,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "05/24",
+      "postDate": "05/24",
+      "description": "CITETECH HONG KONG HKG",
+      "amount": 40.78,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/25",
+      "postDate": "05/25",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 45.96,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "05/25",
+      "postDate": "05/25",
+      "description": "CVS/PHARMACY #03609 WESTON FL",
+      "amount": 35.98,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/25",
+      "postDate": "05/25",
+      "description": "CVS/PHARMACY #03609 WESTON FL",
+      "amount": 36.28,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/26",
+      "postDate": "05/26",
+      "description": "TEB*NEURO BEHAVIORAL I WESTON FL",
+      "amount": 500.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/28",
+      "postDate": "05/28",
+      "description": "ALLIANZ TRAVEL INS 8006285404 VA",
+      "amount": 28.0,
+      "extra": [],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/28",
+      "postDate": "05/28",
+      "description": "MIYAKOOFDADELANDJAPA WINSTON SALEM NC",
+      "amount": 39.41,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/28",
+      "postDate": "05/28",
+      "description": "AMERICAN0010649573887 United States AZ",
+      "amount": 17.0,
+      "extra": [
+        "NAME: SOBRAL/CAIO",
+        "DEPART: 05/29/26",
+        "ATL TO DFW : AA: CLASS: Y : STOP:O",
+        "DFW TO LAS : AA: CLASS: Y : STOP:O",
+        "LAS TO ORD : AA: CLASS: Y : STOP:O",
+        "ORD TO ATL : AA: CLASS: Y : STOP:O"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/28",
+      "postDate": "05/28",
+      "description": "AMERICAN0012346715494 United States AZ",
+      "amount": 11.2,
+      "extra": [
+        "NAME: SOBRAL/CAIO",
+        "DEPART: 05/29/26",
+        "ATL TO DFW : AA: CLASS: Y : STOP:O",
+        "DFW TO LAS : AA: CLASS: Y : STOP:O",
+        "LAS TO ORD : AA: CLASS: Y : STOP:O",
+        "ORD TO ATL : AA: CLASS: Y : STOP:O"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/28",
+      "postDate": "05/28",
+      "description": "AMERICAN0014497999755 United States AZ",
+      "amount": 45.0,
+      "extra": [
+        "NAME: CAIO SOBRAL",
+        "DEPART: 05/29/26",
+        "ATL TO DFW : AA: CLASS: Y : STOP:O",
+        "DFW TO LAS : AA: CLASS: Y : STOP:O",
+        "LAS TO ORD : AA: CLASS: Y : STOP:O",
+        "ORD TO ATL : AA: CLASS: Y : STOP:O"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/28",
+      "postDate": "05/28",
+      "description": "AMERICAN0014497999754 United States AZ",
+      "amount": 45.0,
+      "extra": [
+        "NAME: CAIO SOBRAL",
+        "DEPART: 05/29/26",
+        "ATL TO DFW : AA: CLASS: Y : STOP:O",
+        "DFW TO LAS : AA: CLASS: Y : STOP:O",
+        "LAS TO ORD : AA: CLASS: Y : STOP:O"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/29",
+      "postDate": "05/29",
+      "description": "TEB*NEURO BEHAVIORAL I WESTON FL",
+      "amount": 1545.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/29",
+      "postDate": "05/29",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 9.99,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "05/29",
+      "postDate": "05/29",
+      "description": "SP USE MONAMI PLANTATION FL",
+      "amount": 106.8,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/30",
+      "postDate": "05/30",
+      "description": "SQ *IDENTITY MOVEMENT Fort Lauderda FL",
+      "amount": 40.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/30",
+      "postDate": "05/30",
+      "description": "SQ *IDENTITY MOVEMENT Fort Lauderda FL",
+      "amount": 50.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/30",
+      "postDate": "05/30",
+      "description": "IC* INSTACART*159 8882467822 CA",
+      "amount": 183.65,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/01",
+      "postDate": "06/01",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 59.95,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "06/02",
+      "postDate": "06/02",
+      "description": "TEB*NEURO BEHAVIORAL I WESTON FL",
+      "amount": 1030.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/02",
+      "postDate": "06/02",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 22.98,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "06/02",
+      "postDate": "06/02",
+      "description": "LAGOINHA MIAMI CHURCH MIAMI FL",
+      "amount": 350.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/03",
+      "postDate": "06/03",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 35.99,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "06/03",
+      "postDate": "06/03",
+      "description": "BALUARTE NO MUNDO CAMPINA GRAND BRA",
+      "amount": 25.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/04",
+      "postDate": "06/04",
+      "description": "LA FITNESS IRVINE CA",
+      "amount": 42.79,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/04",
+      "postDate": "06/04",
+      "description": "SQ *PRIMARY MEDICAL PH Davie FL",
+      "amount": 10.3,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/05",
+      "postDate": "06/05",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 14.7,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "06/05",
+      "postDate": "06/05",
+      "description": "TEB*NEURO BEHAVIORAL I WESTON FL",
+      "amount": 1030.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/06",
+      "postDate": "06/06",
+      "description": "CVS/PHARMACY #03609 WESTON FL",
+      "amount": 5.87,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/06",
+      "postDate": "06/06",
+      "description": "CVS/PHARMACY #03609 WESTON FL",
+      "amount": 96.13,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/07",
+      "postDate": "06/07",
+      "description": "GODADDY#4106669071 TEMPE AZ",
+      "amount": 19.98,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "06/07",
+      "postDate": "06/07",
+      "description": "IC* INSTACART*159 SAN FRANCISCO CA",
+      "amount": 194.43,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/07",
+      "postDate": "06/07",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 56.93,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "06/08",
+      "postDate": "06/08",
+      "description": "ROBERTS SPACE IND LLC BEE CAVE TX",
+      "amount": 20.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/08",
+      "postDate": "06/08",
+      "description": "LAGOINHA MIAMI MIAMI FL",
+      "amount": 41.92,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/08",
+      "postDate": "06/08",
+      "description": "USCIS ELIS I90 WASHINGTON DC",
+      "amount": 415.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/08",
+      "postDate": "06/08",
+      "description": "APPLE.COM/BILL CUPERTINO CA",
+      "amount": 5.27,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "Apple.com/bill"
+    },
+    {
+      "transDate": "06/09",
+      "postDate": "06/09",
+      "description": "ELEVENLABS.IO NEW YORK NY",
+      "amount": 22.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/09",
+      "postDate": "06/09",
+      "description": "NESPRESSO USA INC Wilmington DE",
+      "amount": 140.85,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/09",
+      "postDate": "06/09",
+      "description": "TEB*NEURO BEHAVIORAL I WESTON FL",
+      "amount": 1500.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "BARNES & NOBLE #2592 PLANTATION FL",
+      "amount": 1.6,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "BARNES & NOBLE #2592 PLANTATION FL",
+      "amount": 3.51,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "DELICIOUS INSIDE BY CA WESTON FL",
+      "amount": 13.46,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "BARNES & NOBLE #2592 PLANTATION FL",
+      "amount": 13.88,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "BARNES & NOBLE #2592 PLANTATION FL",
+      "amount": 34.71,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "MCDONALD'S F34959 DAVIE FL",
+      "amount": 8.22,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "EINSTEIN BROS BAGELS23 WESTON FL",
+      "amount": 12.93,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "TROPICAL SMOOTHIE CAFE SUNRISE FL",
+      "amount": 21.99,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/15",
+      "postDate": "05/15",
+      "description": "DELICIOUS INSIDE BY CA WESTON FL",
+      "amount": 14.59,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/16",
+      "postDate": "05/16",
+      "description": "WALGREENS #3626 PLANTATION FL",
+      "amount": 14.49,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/17",
+      "postDate": "05/17",
+      "description": "DELICIOUS INSIDE BY CA WESTON FL",
+      "amount": 14.59,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/18",
+      "postDate": "05/18",
+      "description": "EINSTEIN BROS BAGELS23 WESTON FL",
+      "amount": 15.93,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/18",
+      "postDate": "05/18",
+      "description": "BARNES & NOBLE #2592 PLANTATION FL",
+      "amount": 3.71,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/18",
+      "postDate": "05/18",
+      "description": "BARNES & NOBLE #2592 PLANTATION FL",
+      "amount": 8.69,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/18",
+      "postDate": "05/18",
+      "description": "BARNES & NOBLE #2592 PLANTATION FL",
+      "amount": 11.23,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/18",
+      "postDate": "05/18",
+      "description": "STARBUCKS STORE 13240 SUNRISE FL",
+      "amount": 14.8,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/19",
+      "postDate": "05/19",
+      "description": "EINSTEIN BROS BAGELS23 WESTON FL",
+      "amount": 3.75,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/19",
+      "postDate": "05/19",
+      "description": "EPIC ATHLETIC CLUB SUNRISE FL",
+      "amount": 78.65,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/19",
+      "postDate": "05/19",
+      "description": "FT LAUDERDALE HOLY CRO FT LAUDERDALE FL",
+      "amount": 198.37,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/20",
+      "postDate": "05/20",
+      "description": "BARNES & NOBLE #2592 PLANTATION FL",
+      "amount": 12.19,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/20",
+      "postDate": "05/20",
+      "description": "SQ *TEMAK HOUSE ORLAND Deerfield Bea FL",
+      "amount": 176.97,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/21",
+      "postDate": "05/21",
+      "description": "X CORP. PAID FEATURES BASTROP TX",
+      "amount": 4.0,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    },
+    {
+      "transDate": "05/21",
+      "postDate": "05/21",
+      "description": "OFFICE DEPOT #45 DAVIE FL",
+      "amount": 49.01,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/21",
+      "postDate": "05/21",
+      "description": "CIRCLE K 08534 SUNRISE FL",
+      "amount": 53.12,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/21",
+      "postDate": "05/21",
+      "description": "SHINJU JAPANESE BUFFET DAVIE FL",
+      "amount": 76.76,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/21",
+      "postDate": "05/21",
+      "description": "STARBUCKS STORE 13240 SUNRISE FL",
+      "amount": 29.12,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/22",
+      "postDate": "05/22",
+      "description": "WAWA 5403 WEST PALM BEA FL",
+      "amount": 3.59,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/22",
+      "postDate": "05/22",
+      "description": "TST*MISTER O1 - PEMBRO pembroke pine FL",
+      "amount": 86.49,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/22",
+      "postDate": "05/22",
+      "description": "UBER *TRIP 8005928996 CA",
+      "amount": 0.59,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/23",
+      "postDate": "05/23",
+      "description": "SQ *LARIVIERE PARKING Miami Beach FL",
+      "amount": 25.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/23",
+      "postDate": "05/23",
+      "description": "HOLIDAY INN UNIVERSITY GAINESVILLE FL",
+      "amount": 156.38,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/24",
+      "postDate": "05/24",
+      "description": "PUBLIX #372 DAVIE FL",
+      "amount": 15.06,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/24",
+      "postDate": "05/24",
+      "description": "PUBLIX #372 DAVIE FL",
+      "amount": 34.63,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/24",
+      "postDate": "05/24",
+      "description": "REMEMBR MIAMI FL",
+      "amount": 5.55,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/24",
+      "postDate": "05/24",
+      "description": "WAWA 5291 OCALA FL",
+      "amount": 6.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/24",
+      "postDate": "05/24",
+      "description": "TST*REMEMBR MIAMI Miami FL",
+      "amount": 35.64,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/24",
+      "postDate": "05/24",
+      "description": "TST*REMEMBR MIAMI Miami FL",
+      "amount": 46.44,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/24",
+      "postDate": "05/24",
+      "description": "TST*REMEMBR MIAMI Miami FL",
+      "amount": 47.52,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/24",
+      "postDate": "05/24",
+      "description": "TST*REMEMBR MIAMI Miami FL",
+      "amount": 329.92,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/24",
+      "postDate": "05/24",
+      "description": "LAGOINHA MIAMI CHURCH MIAMI FL",
+      "amount": 500.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/24",
+      "postDate": "05/24",
+      "description": "FOGO DE CHAO - MIAMI MIAMI BEACH FL",
+      "amount": 15.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/24",
+      "postDate": "05/24",
+      "description": "PILOT 096 OKEECHOBEE FL",
+      "amount": 7.68,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/24",
+      "postDate": "05/24",
+      "description": "HOLIDAY INN UNIVERSITY GAINESVILLE FL",
+      "amount": 386.76,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/25",
+      "postDate": "05/25",
+      "description": "STARBUCKS 13240 PLANTATION FL",
+      "amount": 15.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/26",
+      "postDate": "05/26",
+      "description": "MCDONALD'S F11836 SUNRISE FL",
+      "amount": 13.03,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/26",
+      "postDate": "05/26",
+      "description": "BROWARD CNTY SOLID WAS FORT LAUDERDA FL",
+      "amount": 21.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/27",
+      "postDate": "05/27",
+      "description": "STARBUCKS STORE 13240 SUNRISE FL",
+      "amount": 23.51,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/28",
+      "postDate": "05/28",
+      "description": "MICRO CENTER# 185 MIAMI FL",
+      "amount": 439.01,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/29",
+      "postDate": "05/29",
+      "description": "UBER *EATS 8005928996 CA",
+      "amount": 27.39,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/29",
+      "postDate": "05/29",
+      "description": "CHICK-FIL-A #04272 DAVIE FL",
+      "amount": 14.59,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/29",
+      "postDate": "05/29",
+      "description": "3RD SPACE KAVA DAVIE FL",
+      "amount": 25.28,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/30",
+      "postDate": "05/30",
+      "description": "MCDONALD'S F34959 DAVIE FL",
+      "amount": 10.52,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/31",
+      "postDate": "05/31",
+      "description": "WALGREENS #2193 DAVIE FL",
+      "amount": 18.19,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "05/31",
+      "postDate": "05/31",
+      "description": "TST*OLENKA BISTRO - WE Sunrise FL",
+      "amount": 17.78,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/01",
+      "postDate": "06/01",
+      "description": "TST* OFFERDAHL'S OFF T WESTON FL",
+      "amount": 4.38,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/01",
+      "postDate": "06/01",
+      "description": "TST* OFFERDAHL'S OFF T WESTON FL",
+      "amount": 10.96,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/01",
+      "postDate": "06/01",
+      "description": "TEBEX.ORG Wilmington DE",
+      "amount": 14.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/01",
+      "postDate": "06/01",
+      "description": "WHOLEFDS DVE #10549 DAVIE FL",
+      "amount": 112.03,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/02",
+      "postDate": "06/02",
+      "description": "EINSTEIN BROS BAGELS23 WESTON FL",
+      "amount": 4.16,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/03",
+      "postDate": "06/03",
+      "description": "EINSTEIN BROS BAGELS23 WESTON FL",
+      "amount": 30.58,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/03",
+      "postDate": "06/03",
+      "description": "20303 CRUNCH HALLANDAL HALLANDALE FL",
+      "amount": 16.05,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/04",
+      "postDate": "06/04",
+      "description": "PUBLIX #372 DAVIE FL",
+      "amount": 68.46,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/04",
+      "postDate": "06/04",
+      "description": "TROPICAL SMOOTHIE CAFE SUNRISE FL",
+      "amount": 12.17,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/05",
+      "postDate": "06/05",
+      "description": "NOZOMIO INC LEWES DE",
+      "amount": 20.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/05",
+      "postDate": "06/05",
+      "description": "TST*CHILL-N NITROGEN W Weston FL",
+      "amount": 3.16,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/05",
+      "postDate": "06/05",
+      "description": "ELITE PAINCARE DAVIE FL",
+      "amount": 27.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/05",
+      "postDate": "06/05",
+      "description": "MARATHON 171793 DAVIE FL",
+      "amount": 50.49,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/05",
+      "postDate": "06/05",
+      "description": "TRADER JOE S #778 DAVIE FL",
+      "amount": 16.85,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/06",
+      "postDate": "06/06",
+      "description": "MCDONALD'S F34959 DAVIE FL",
+      "amount": 4.27,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/06",
+      "postDate": "06/06",
+      "description": "MCDONALD'S F17009 SUNRISE FL",
+      "amount": 6.18,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/06",
+      "postDate": "06/06",
+      "description": "GENERAL INTELLIGENCE NEW YORK NY",
+      "amount": 20.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/06",
+      "postDate": "06/06",
+      "description": "TST*KE-UH WESTON Weston FL",
+      "amount": 66.04,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/07",
+      "postDate": "06/07",
+      "description": "PUBLIX #1469 WESTON FL",
+      "amount": 52.64,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/08",
+      "postDate": "06/08",
+      "description": "PUBLIX #372 DAVIE FL",
+      "amount": 39.71,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/08",
+      "postDate": "06/08",
+      "description": "20370 CRUNCH PLANTATIO PLANTATION FL",
+      "amount": 2.25,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/09",
+      "postDate": "06/09",
+      "description": "MCDONALD'S F34959 DAVIE FL",
+      "amount": 4.27,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/09",
+      "postDate": "06/09",
+      "description": "LAGOINHA MIAMI CHURCH MIAMI FL",
+      "amount": 530.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/09",
+      "postDate": "06/09",
+      "description": "SQ *LANCHONETE LAGOINH Miami FL",
+      "amount": 36.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/10",
+      "postDate": "06/10",
+      "description": "SP HALEPETDOOR CANON CITY CO",
+      "amount": 23.59,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/11",
+      "postDate": "06/11",
+      "description": "MCDONALD'S F34959 DAVIE FL",
+      "amount": 10.52,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "06/12",
+      "postDate": "06/12",
+      "description": "X CORP. PAID FEATURES BASTROP TX",
+      "amount": 8.0,
+      "extra": [],
+      "category": "bastrop-local",
+      "flags": [
+        "bastrop-likely-pedro"
+      ],
+      "merchant": null
+    }
+  ],
+  "sourceFile": "June_12.txt"
+}

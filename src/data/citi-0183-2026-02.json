@@ -1,0 +1,892 @@
+{
+  "summary": {
+    "last4": "0183",
+    "name": "PAULA BARIFOUSE",
+    "product": "Citi AAdvantage Executive Mastercard",
+    "period": "01/15/26-02/13/26",
+    "purchases": 7081.89,
+    "newBalance": 8465.14,
+    "interest": 0.0,
+    "minPayment": 362.26,
+    "due": "03/10/26",
+    "payments": -500.0,
+    "credits": -3892.33,
+    "previousBalance": 2377.91
+  },
+  "parsedCount": 76,
+  "parsedSum": 7081.89,
+  "byCategory": {
+    "pedro-tech-saas": 85.14,
+    "other": 5022.09,
+    "travel": 1705.24,
+    "fl-household": 269.42
+  },
+  "pedroTechTotal": 85.14,
+  "pedroWorkOnsiteTotal": 0,
+  "transactions": [
+    {
+      "transDate": "01/14",
+      "postDate": "01/15",
+      "description": "DNH*GODADDY#399261024 TEMPE AZ",
+      "amount": 19.98,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "01/14",
+      "postDate": "01/15",
+      "description": "ZONA SUL FL 27 RIO DE JANEIR BRA",
+      "amount": 23.63,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/15",
+      "postDate": "01/15",
+      "description": "DROGARIA VENANCIO RIO DE JANEIR BRA",
+      "amount": 4.15,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/15",
+      "postDate": "01/15",
+      "description": "DROGARIA VENANCIO RIO DE JANEIR BRA",
+      "amount": 405.57,
+      "extra": [
+        "2,173.63 BRAZILIAN REAL $405.57"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/16",
+      "postDate": "01/16",
+      "description": "MichelDaSilvaNeve RIO DE JANEIR BRA",
+      "amount": 2.8,
+      "extra": [
+        "15.00 BRAZILIAN REAL $2.80"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/17",
+      "postDate": "01/17",
+      "description": "EUZI DA SILVA QUEIMADOS BRA",
+      "amount": 18.69,
+      "extra": [
+        "100.00 BRAZILIAN REAL $18.69"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/17",
+      "postDate": "01/17",
+      "description": "ZONA SUL FL 27 RIO DE JANEIR BRA",
+      "amount": 25.97,
+      "extra": [
+        "139.00 BRAZILIAN REAL $25.97"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/17",
+      "postDate": "01/17",
+      "description": "OUTER SHOES RIO DE JANEIR BRA",
+      "amount": 167.01,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/17",
+      "postDate": "01/17",
+      "description": "WBA EXPORTACAO IMPORTA RIO DE JANEIR BRA",
+      "amount": 16.63,
+      "extra": [
+        "89.00 BRAZILIAN REAL $16.63"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/17",
+      "postDate": "01/17",
+      "description": "CAFE 459LL FOOD MARKET RIO DE JANEIR BRA",
+      "amount": 45.13,
+      "extra": [
+        "241.50 BRAZILIAN REAL $45.13"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/17",
+      "postDate": "01/17",
+      "description": "MEGA STORE IPANEMA RIO DE JANEIR BRA",
+      "amount": 85.95,
+      "extra": [
+        "459.95 BRAZILIAN REAL $85.95"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/18",
+      "postDate": "01/18",
+      "description": "MP *COCOCARIOCA ITABORA BRA",
+      "amount": 4.11,
+      "extra": [
+        "22.00 BRAZILIAN REAL $4.11"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/18",
+      "postDate": "01/18",
+      "description": "P.OVO BAR E LANCHONET RIO DE JANEIR BRA",
+      "amount": 11.72,
+      "extra": [
+        "62.70 BRAZILIAN REAL $11.72"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/18",
+      "postDate": "01/18",
+      "description": "JIM.COM* 34923155 MAT DUQUE DE CAX BRA",
+      "amount": 5.61,
+      "extra": [
+        "30.00 BRAZILIAN REAL $5.61"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/18",
+      "postDate": "01/18",
+      "description": "MEGA STORE IPANEMA RIO DE JANEIR BRA",
+      "amount": 44.84,
+      "extra": [
+        "239.98 BRAZILIAN REAL $44.84"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/18",
+      "postDate": "01/18",
+      "description": "MEGA STORE IPANEMA RIO DE JANEIR BRA",
+      "amount": 57.93,
+      "extra": [
+        "309.98 BRAZILIAN REAL $57.93"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/18",
+      "postDate": "01/18",
+      "description": "LA Fitness *AnnualFee IRVINE CA",
+      "amount": 73.83,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/18",
+      "postDate": "01/18",
+      "description": "ADIDAS RIO DE JANEIR BRA",
+      "amount": 195.8,
+      "extra": [
+        "1,047.83 BRAZILIAN REAL $195.80"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/19",
+      "postDate": "01/19",
+      "description": "MP *ALETAXI RIO DE JANEIR BRA",
+      "amount": 4.0,
+      "extra": [
+        "21.40 BRAZILIAN REAL $4.00"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/19",
+      "postDate": "01/19",
+      "description": "MatheusDaCruz RIO DE JANEIR BRA",
+      "amount": 4.37,
+      "extra": [
+        "23.40 BRAZILIAN REAL $4.37"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/19",
+      "postDate": "01/19",
+      "description": "ZIG *BREWTECO GAVEA RIO DE JANEI BRA",
+      "amount": 68.73,
+      "extra": [
+        "367.80 BRAZILIAN REAL $68.73"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/20",
+      "postDate": "01/20",
+      "description": "ZP*SILVIO NEPOMUCENO RIO DE JANEIR BRA",
+      "amount": 2.89,
+      "extra": [
+        "15.48 BRAZILIAN REAL $2.89"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/21",
+      "postDate": "01/21",
+      "description": "GURUME IPANEMA RIO DE JANEIR BRA",
+      "amount": 67.61,
+      "extra": [
+        "359.52 BRAZILIAN REAL $67.61"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/21",
+      "postDate": "01/21",
+      "description": "CarlosAlberto RIO DE JANEIR BRA",
+      "amount": 4.67,
+      "extra": [
+        "25.00 BRAZILIAN REAL $4.67"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/21",
+      "postDate": "01/21",
+      "description": "SergioNepomuceno MESQUITA BRA",
+      "amount": 5.61,
+      "extra": [
+        "30.00 BRAZILIAN REAL $5.61"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/21",
+      "postDate": "01/21",
+      "description": "ZIG*ROCCO RIO DE JANEIR BRA",
+      "amount": 50.79,
+      "extra": [
+        "270.07 BRAZILIAN REAL $50.79"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/22",
+      "postDate": "01/22",
+      "description": "DNH*GODADDY#399873286 TEMPE AZ",
+      "amount": 9.99,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "01/22",
+      "postDate": "01/22",
+      "description": "DROGARIA VENANCIO RIO DE JANEIR BRA",
+      "amount": 31.17,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/22",
+      "postDate": "01/22",
+      "description": "POBRE JUAN IPANEMA RIO DE JANEIR BRA",
+      "amount": 88.49,
+      "extra": [
+        "468.00 BRAZILIAN REAL $88.49"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/22",
+      "postDate": "01/22",
+      "description": "WBA EXPORTACAO IMPORTA RIO DE JANEIR BRA",
+      "amount": 4.73,
+      "extra": [
+        "25.00 BRAZILIAN REAL $4.73"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/23",
+      "postDate": "01/23",
+      "description": "DNH*GODADDY#399185747 TEMPE AZ",
+      "amount": 13.19,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "01/23",
+      "postDate": "01/23",
+      "description": "TRANSPORTE DE PASSAGEI RIO DE JANEIR BRA",
+      "amount": 37.82,
+      "extra": [
+        "200.00 BRAZILIAN REAL $37.82"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/23",
+      "postDate": "01/23",
+      "description": "MP *COMPRASMR OSASCO BRA",
+      "amount": 11.34,
+      "extra": [
+        "60.00 BRAZILIAN REAL $11.34"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/24",
+      "postDate": "01/24",
+      "description": "CASAS PEDRO RIO DE JANEIR BRA",
+      "amount": 12.6,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/24",
+      "postDate": "01/24",
+      "description": "STUDIO HANS RIO DE JANEIR BRA",
+      "amount": 105.91,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/24",
+      "postDate": "01/24",
+      "description": "KORAL RESTAURANTE RIO DE JANEIR BRA",
+      "amount": 32.69,
+      "extra": [
+        "172.48 BRAZILIAN REAL $32.69"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/25",
+      "postDate": "01/25",
+      "description": "DROGASMIL RIO DE JANEIR BRA",
+      "amount": 17.29,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/25",
+      "postDate": "01/25",
+      "description": "BARRACA DO ANTONIO 124 RIO DE JANEIR BRA",
+      "amount": 18.0,
+      "extra": [
+        "95.00 BRAZILIAN REAL $18.00"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/25",
+      "postDate": "01/25",
+      "description": "GURUME IPANEMA RIO DE JANEIR BRA",
+      "amount": 31.12,
+      "extra": [
+        "164.19 BRAZILIAN REAL $31.12"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/26",
+      "postDate": "01/26",
+      "description": "MP *RONY RIO DE JANEIR BRA",
+      "amount": 4.7,
+      "extra": [
+        "24.80 BRAZILIAN REAL $4.70"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/26",
+      "postDate": "01/26",
+      "description": "MP *JAIME VASSOURAS BRA",
+      "amount": 5.12,
+      "extra": [
+        "27.00 BRAZILIAN REAL $5.12"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/28",
+      "postDate": "01/28",
+      "description": "GALLO D ORO RIO DE JANEIR BRA",
+      "amount": 12.38,
+      "extra": [
+        "64.00 BRAZILIAN REAL $12.38"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/28",
+      "postDate": "01/28",
+      "description": "VIA SETE RIO DE JANEIR BRA",
+      "amount": 43.41,
+      "extra": [
+        "226.00 BRAZILIAN REAL $43.41"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/28",
+      "postDate": "01/28",
+      "description": "DROGARIA VENANCIO RIO DE JANEIR BRA",
+      "amount": 77.81,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/28",
+      "postDate": "01/28",
+      "description": "OtavioJoseDe DUQUE DE CAXI BRA",
+      "amount": 4.8,
+      "extra": [
+        "25.00 BRAZILIAN REAL $4.80"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/28",
+      "postDate": "01/28",
+      "description": "MP *TRANSPORTES OSASCO BRA",
+      "amount": 5.19,
+      "extra": [
+        "27.00 BRAZILIAN REAL $5.19"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/28",
+      "postDate": "01/28",
+      "description": "MEGA STORE IPANEMA RIO DE JANEIR BRA",
+      "amount": 78.75,
+      "extra": [
+        "409.96 BRAZILIAN REAL $78.75"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/29",
+      "postDate": "01/29",
+      "description": "BRASEIRO DA GAVEA RIO DE JANEIR BRA",
+      "amount": 58.08,
+      "extra": [
+        "300.00 BRAZILIAN REAL $58.08"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/29",
+      "postDate": "01/29",
+      "description": "LeandroRibeiroDaS RIO DE JANEIR BRA",
+      "amount": 4.84,
+      "extra": [
+        "25.00 BRAZILIAN REAL $4.84"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/29",
+      "postDate": "01/29",
+      "description": "AntonioEder RIO DE JANEIR BRA",
+      "amount": 8.14,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/29",
+      "postDate": "01/29",
+      "description": "MAUROTAXI RIO DE JANEIR BRA",
+      "amount": 11.87,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/30",
+      "postDate": "01/30",
+      "description": "MP *TRANSPORTES RIO DE JANEIR BRA",
+      "amount": 4.9,
+      "extra": [
+        "25.30 BRAZILIAN REAL $4.90"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/30",
+      "postDate": "01/30",
+      "description": "DROGARIAS PACHECO RIO DE JANEIR BRA",
+      "amount": 81.1,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/30",
+      "postDate": "01/30",
+      "description": "MP *TAXI OSASCO BRA",
+      "amount": 4.8,
+      "extra": [
+        "24.80 BRAZILIAN REAL $4.80"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/31",
+      "postDate": "01/31",
+      "description": "BARRACA DO ANTONIO 124 RIO DE JANEIR BRA",
+      "amount": 25.08,
+      "extra": [
+        "130.00 BRAZILIAN REAL $25.08"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/31",
+      "postDate": "01/31",
+      "description": "GURUME IPANEMA RIO DE JANEIR BRA",
+      "amount": 36.3,
+      "extra": [
+        "188.16 BRAZILIAN REAL $36.30"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/31",
+      "postDate": "01/31",
+      "description": "DROGARIA VENANCIO RIO DE JANEIR BRA",
+      "amount": 36.56,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/31",
+      "postDate": "01/31",
+      "description": "OUTER SHOES RIO DE JANEIR BRA",
+      "amount": 81.9,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/31",
+      "postDate": "01/31",
+      "description": "GARAGE RIO DE JANEIR BRA",
+      "amount": 122.09,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "01/31",
+      "postDate": "01/31",
+      "description": "WBA EXPORTACAO IMPORTA RIO DE JANEIR BRA",
+      "amount": 15.24,
+      "extra": [
+        "79.00 BRAZILIAN REAL $15.24"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/01",
+      "postDate": "02/01",
+      "description": "MP *CHATO Rio de Janei BRA",
+      "amount": 15.44,
+      "extra": [
+        "80.00 BRAZILIAN REAL $15.44"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/01",
+      "postDate": "02/01",
+      "description": "DROGARIA VENANCIO RIO DE JANEIR BRA",
+      "amount": 37.2,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/01",
+      "postDate": "02/01",
+      "description": "POBRE JUAN IPANEMA RIO DE JANEIR BRA",
+      "amount": 59.64,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/01",
+      "postDate": "02/01",
+      "description": "HN35 RIO RIO DE JANEIR BRA",
+      "amount": 32.6,
+      "extra": [
+        "168.99 BRAZILIAN REAL $32.60"
+      ],
+      "category": "travel",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/02",
+      "postDate": "02/02",
+      "description": "MIA PARKING MIAMI FL",
+      "amount": 4.0,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/04",
+      "postDate": "02/04",
+      "description": "LA FITNESS IRVINE CA",
+      "amount": 42.79,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/05",
+      "postDate": "02/05",
+      "description": "NESPRESSO USA INC Wilmington DE",
+      "amount": 140.4,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/05",
+      "postDate": "02/05",
+      "description": "MATTOS INSURANCE POMPANO BEACH FL",
+      "amount": 20.6,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/05",
+      "postDate": "02/05",
+      "description": "BRISTOL WEST INSURANCE PLANTATION FL",
+      "amount": 3367.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/07",
+      "postDate": "02/07",
+      "description": "DNH*GODADDY#401233154 TEMPE AZ",
+      "amount": 19.98,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "GoDaddy"
+    },
+    {
+      "transDate": "02/07",
+      "postDate": "02/07",
+      "description": "TST*KE-UH WESTON Weston FL",
+      "amount": 97.16,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/08",
+      "postDate": "02/08",
+      "description": "ROBERTS SPACE IND LLC LOS ANGELES CA",
+      "amount": 20.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/08",
+      "postDate": "02/08",
+      "description": "APPLE STORE #R623 MIAMI FL",
+      "amount": 52.43,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/08",
+      "postDate": "02/08",
+      "description": "APPLE STORE #R623 MIAMI FL",
+      "amount": 95.23,
+      "extra": [],
+      "category": "fl-household",
+      "flags": [],
+      "merchant": null
+    },
+    {
+      "transDate": "02/09",
+      "postDate": "02/09",
+      "description": "ELEVENLABS.IO NEW YORK NY",
+      "amount": 22.0,
+      "extra": [],
+      "category": "pedro-tech-saas",
+      "flags": [
+        "pedro-likely-tech",
+        "cancel-candidate"
+      ],
+      "merchant": "ElevenLabs"
+    },
+    {
+      "transDate": "02/09",
+      "postDate": "02/09",
+      "description": "FT LAUDERDALE HOLY CRO FT LAUDERDALE FL",
+      "amount": 500.0,
+      "extra": [],
+      "category": "other",
+      "flags": [],
+      "merchant": null
+    }
+  ],
+  "sourceFile": "February_13.txt"
+}
