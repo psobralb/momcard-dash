@@ -1,5 +1,3 @@
-import { readFileSync, readdirSync, existsSync } from "fs";
-import path from "path";
 import type { CitiMonth, DashboardData, PedroBurnMonth } from "./types";
 
 export type {
@@ -13,6 +11,9 @@ export {
   formatUsd,
 } from "./types";
 
+const GITHUB_DATA_BASE =
+  "https://raw.githubusercontent.com/psobralb/momcard-dash/main/src/data";
+
 const CATEGORY_ORDER = [
   "fl-household",
   "other",
@@ -22,23 +23,16 @@ const CATEGORY_ORDER = [
   "pedro-work-onsite",
 ];
 
-function dataRoot(): string {
-  const sibling = path.join(process.cwd(), "..", "data");
-  if (existsSync(sibling)) return sibling;
-  const local = path.join(process.cwd(), "src", "data");
-  if (existsSync(local)) return local;
-  throw new Error("momcard data directory not found (../data or src/data)");
+async function readJsonRemote<T>(rel: string): Promise<T> {
+  const res = await fetch(`${GITHUB_DATA_BASE}/${rel}`, { next: { revalidate: 300 } });
+  if (!res.ok) throw new Error(`Failed to fetch ${rel}: ${res.status}`);
+  return (await res.json()) as T;
 }
 
-function readJson<T>(filePath: string): T {
-  return JSON.parse(readFileSync(filePath, "utf8")) as T;
-}
-
-/** H1 FX rewrite found ElevenLabs + General Intelligence — billing.json not yet recomputed. */
 function applyH1PedroBurnOverlay(
-  root: string,
   monthly: PedroBurnMonth[],
-  appleParkedTotal: number
+  appleParkedTotal: number,
+  correction?: { pedroTechNewMerchants?: Array<{ month: string; amount: number }> }
 ): {
   monthly: PedroBurnMonth[];
   pedroBurnTotal: number;
@@ -46,148 +40,79 @@ function applyH1PedroBurnOverlay(
   appleParkedTotal: number;
   burnNote: string;
 } {
-  const correctionPath = path.join(
-    root,
-    "sub-digest",
-    "extrato-h1-correction.json"
-  );
   const addByMonth = new Map<string, number>();
   let burnNote = "pedroBurnCorrected.totalAcrossAudit";
-
-  if (existsSync(correctionPath)) {
-    const correction = readJson<{
-      pedroTechNewMerchants?: Array<{ month: string; amount: number }>;
-      h1?: { pedroTechDelta?: number };
-    }>(correctionPath);
+  if (correction) {
     for (const row of correction.pedroTechNewMerchants ?? []) {
-      addByMonth.set(
-        row.month,
-        (addByMonth.get(row.month) ?? 0) + (row.amount ?? 0)
-      );
+      addByMonth.set(row.month, (addByMonth.get(row.month) ?? 0) + (row.amount ?? 0));
     }
     const delta = [...addByMonth.values()].reduce((s, n) => s + n, 0);
     if (delta > 0) {
       burnNote = `H1 FX overlay +$${delta.toFixed(0)} (ElevenLabs + General Intelligence)`;
     }
   }
-
   const patched = monthly.map((m) => {
     const add = addByMonth.get(m.month) ?? 0;
     if (!add) return m;
     return {
       ...m,
-      pedroTechExApple:
-        Math.round((m.pedroTechExApple + add) * 100) / 100,
-      oldPedroTechInclApple:
-        Math.round((m.oldPedroTechInclApple + add) * 100) / 100,
+      pedroTechExApple: Math.round((m.pedroTechExApple + add) * 100) / 100,
+      oldPedroTechInclApple: Math.round((m.oldPedroTechInclApple + add) * 100) / 100,
     };
   });
-
   const pedroBurnTotal =
-    Math.round(
-      patched.reduce((s, m) => s + m.pedroTechExApple, 0) * 100
-    ) / 100;
+    Math.round(patched.reduce((s, m) => s + m.pedroTechExApple, 0) * 100) / 100;
   const avgPedroBurn =
-    patched.length === 0
-      ? 0
-      : Math.round((pedroBurnTotal / patched.length) * 100) / 100;
-
-  return {
-    monthly: patched,
-    pedroBurnTotal,
-    avgPedroBurn,
-    appleParkedTotal,
-    burnNote,
-  };
+    patched.length === 0 ? 0 : Math.round((pedroBurnTotal / patched.length) * 100) / 100;
+  return { monthly: patched, pedroBurnTotal, avgPedroBurn, appleParkedTotal, burnNote };
 }
 
-export function loadDashboardData(): DashboardData {
-  const root = dataRoot();
-  const billing = readJson<{
+export async function loadDashboardData(): Promise<DashboardData> {
+  const billing = await readJsonRemote<{
     generatedAt?: string;
+    accountLast4?: string;
+    cardholder?: string;
+    dateRangeLabel?: string;
+    ytdPurchases?: number;
+    categoryKeys?: string[];
     pedroBurnCorrected: {
       monthly: PedroBurnMonth[];
       totalAcrossAudit: number;
       avgPerMonth: number;
       appleParkedTotal: number;
     };
-  }>(path.join(root, "billing.json"));
+  }>("billing.json");
 
-  const citiFiles = readdirSync(root)
-    .filter((f) => /^citi-0183-2026-\d{2}\.json$/.test(f))
-    .sort();
-
-  const months: CitiMonth[] = citiFiles.map((f) => {
-    const m = f.match(/citi-0183-(2026-\d{2})\.json$/);
-    const month = m?.[1] ?? f;
-    const raw = readJson<{
-      summary: CitiMonth["summary"];
-      byCategory: Record<string, number>;
-      pedroTechTotal: number;
-      transactions: CitiMonth["transactions"];
-    }>(path.join(root, f));
-    return {
-      month,
-      summary: raw.summary,
-      byCategory: raw.byCategory ?? {},
-      pedroTechTotal: raw.pedroTechTotal ?? 0,
-      transactions: raw.transactions ?? [],
-    };
-  });
-
-  const categorySet = new Set<string>();
-  for (const m of months) {
-    for (const k of Object.keys(m.byCategory)) categorySet.add(k);
-  }
-  const categoryKeys = [
-    ...CATEGORY_ORDER.filter((k) => categorySet.has(k)),
-    ...[...categorySet].filter((k) => !CATEGORY_ORDER.includes(k)).sort(),
-  ];
-
-  const ytdPurchases = months.reduce(
-    (s, m) => s + (m.summary.purchases ?? 0),
-    0
+  const monthIds = ["01","02","03","04","05","06","07","08","09"];
+  const months = await Promise.all(
+    monthIds.map((m) => readJsonRemote<CitiMonth>(`citi-0183-2026-${m}.json`))
   );
 
-  let pedroSubs: DashboardData["pedroSubs"] = [];
-  const masterPath = path.join(root, "sub-digest", "MASTER-reduce.json");
-  if (existsSync(masterPath)) {
-    const master = readJson<{
-      pedroBurnMerchants?: DashboardData["pedroSubs"];
-    }>(masterPath);
-    pedroSubs = (master.pedroBurnMerchants ?? []).map((x) => ({
-      merchant: x.merchant,
-      periodTotal: x.periodTotal,
-      chargeCount: x.chargeCount,
-      avgPerMonthAcrossAudit: x.avgPerMonthAcrossAudit,
-      status: x.status,
-    }));
+  let correction: { pedroTechNewMerchants?: Array<{ month: string; amount: number }> } | undefined;
+  try {
+    correction = await readJsonRemote("sub-digest/extrato-h1-correction.json");
+  } catch {
+    correction = undefined;
   }
 
-  const burn = applyH1PedroBurnOverlay(
-    root,
+  const overlay = applyH1PedroBurnOverlay(
     billing.pedroBurnCorrected.monthly,
-    billing.pedroBurnCorrected.appleParkedTotal
+    billing.pedroBurnCorrected.appleParkedTotal,
+    correction
   );
 
-  const first = months[0]?.month ?? "2026-01";
-  const last = months[months.length - 1]?.month ?? "2026-09";
-  const cardholder =
-    months[months.length - 1]?.summary.name ?? "PAULA BARIFOUSE";
+  // Prefer fields from billing if present; otherwise derive
+  const categoryKeys = billing.categoryKeys ?? CATEGORY_ORDER;
 
   return {
-    generatedAt: billing.generatedAt ?? "",
-    accountLast4: "0183",
-    cardholder,
-    dateRangeLabel: `${first} → ${last}`,
-    ytdPurchases: Math.round(ytdPurchases * 100) / 100,
-    pedroBurnTotal: burn.pedroBurnTotal,
-    appleParkedTotal: burn.appleParkedTotal,
-    avgPedroBurn: burn.avgPedroBurn,
-    pedroBurnMonthly: burn.monthly,
+    ...(billing as unknown as DashboardData),
     months,
+    pedroBurnMonthly: overlay.monthly,
+    pedroBurnTotal: overlay.pedroBurnTotal,
+    avgPedroBurn: overlay.avgPedroBurn,
+    appleParkedTotal: overlay.appleParkedTotal,
+    burnNote: overlay.burnNote,
     categoryKeys,
-    pedroSubs,
-    burnNote: burn.burnNote,
-  };
+    generatedAt: billing.generatedAt ?? new Date().toISOString(),
+  } as DashboardData;
 }

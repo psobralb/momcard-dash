@@ -8,8 +8,8 @@ import { formatUsd } from "@/lib/types";
 
 export const dynamic = "force-dynamic";
 
-export default function DashboardPage() {
-  const data = loadDashboardData();
+export default async function DashboardPage() {
+  const data = await loadDashboardData();
 
   return (
     <div className="relative z-10 mx-auto max-w-[1180px] px-4 pb-16 pt-7 sm:px-8">
